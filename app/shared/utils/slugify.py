@@ -1,0 +1,3 @@
+"""String slugification utility."""
+
+pass

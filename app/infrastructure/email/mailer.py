@@ -1,0 +1,3 @@
+"""Email sending utilities."""
+
+pass
