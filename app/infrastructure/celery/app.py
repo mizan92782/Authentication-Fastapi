@@ -6,8 +6,7 @@ celery_app = Celery(
     broker=settings.rabbitmq_url,
     backend=settings.redis_url,
     include=[
-        "app.tasks.order_tasks",
-        "app.tasks.notification_tasks",
+        "app.infrastructure.celery.tasks",
     ],
 )
 
@@ -20,12 +19,4 @@ celery_app.conf.update(
     task_track_started=True,
     task_acks_late=True,
     worker_prefetch_multiplier=1,
-    task_max_retries=3,
-    task_default_retry_delay=60,
-    beat_schedule={
-        "cleanup-expired-tokens": {
-            "task": "app.tasks.notification_tasks.cleanup_expired_sessions",
-            "schedule": 3600.0,
-        },
-    },
 )

@@ -32,7 +32,11 @@ class Settings(BaseSettings):
     redis_port: int = 6379
     redis_password: str = ""
     redis_db: int = 0
-    redis_ttl: int = 3600
+    redis_ttl: int = 300
+    redis_ttl_small: int = 60
+    redis_ttl_medium: int = 300
+    redis_ttl_large: int = 1000
+    redis_ttl_very_large: int = 2000
 
     # RabbitMQ
     rabbitmq_host: str = "localhost"

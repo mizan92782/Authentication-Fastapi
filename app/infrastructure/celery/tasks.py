@@ -1,36 +1,21 @@
-from celery import shared_task
+from app.infrastructure.celery.app import celery_app
+from app.core.config import settings
 from app.core.logging import get_logger
+import smtplib
+from email.mime.text import MIMEText
 
 logger = get_logger(__name__)
 
 
-@shared_task(
-    bind=True,
-    name="app.tasks.order_tasks.send_order_confirmation",
-    max_retries=3,
-    default_retry_delay=60,
-)
-def send_order_confirmation(self, order_id: str, user_id: str) -> dict:
-    try:
-        logger.info("sending_order_confirmation", order_id=order_id, user_id=user_id)
-        # Email sending logic here (SMTP / SES)
-        return {"status": "sent", "order_id": order_id}
-    except Exception as exc:
-        logger.error("order_confirmation_failed", order_id=order_id, error=str(exc))
-        raise self.retry(exc=exc)
-
-
-@shared_task(
-    bind=True,
-    name="app.tasks.order_tasks.update_inventory",
-    max_retries=3,
-    default_retry_delay=30,
-)
-def update_inventory(self, order_id: str) -> dict:
-    try:
-        logger.info("updating_inventory", order_id=order_id)
-        # Inventory sync logic (warehouse, ERP, etc.)
-        return {"status": "updated", "order_id": order_id}
-    except Exception as exc:
-        logger.error("inventory_update_failed", order_id=order_id, error=str(exc))
-        raise self.retry(exc=exc)
+@celery_app.task
+def registraion_otp_send_eamil_delay(email, otp):
+    logger.info("sending_registration_otp", email=email)
+    msg = MIMEText(f"Your OTP is: {otp}. Valid for 5 minutes.")
+    msg["Subject"] = "Registration OTP"
+    msg["From"] = settings.smtp_from
+    msg["To"] = email
+    with smtplib.SMTP(settings.smtp_host, settings.smtp_port) as smtp:
+        smtp.starttls()
+        smtp.login(settings.smtp_user, settings.smtp_password)
+        smtp.sendmail(settings.smtp_from, email, msg.as_string())
+    logger.info("registration_otp_sent", email=email)

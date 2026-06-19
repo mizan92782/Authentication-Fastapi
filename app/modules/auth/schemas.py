@@ -21,7 +21,7 @@ class UserRegisterSchema(BaseModel):
     @field_validator("email")
     @classmethod
     def email_must_not_be_empty(cls, v):
-        if not v or v.strip() == "" or not v.endswith("@gmail.com"):
+        if not v or v.strip() == "" or not v.endswith(".com"):
             raise ValueError("Email cannot be empty or must end with @gmail.com")
         return v
 
@@ -37,3 +37,19 @@ class UserRegisterSchema(BaseModel):
         if self.password1 != self.password2:
             raise ValueError("Passwords do not match")
         return self
+
+
+class LoginRequest(BaseModel):
+    email: EmailStr
+    password: str
+
+
+class TokenResponse(BaseModel):
+    access_token: str
+    refresh_token: str
+    token_type: str = "bearer"
+
+
+class AccessTokenResponse(BaseModel):
+    access_token: str
+    token_type: str = "bearer"

@@ -28,6 +28,16 @@ async def close_redis() -> None:
         _redis_pool = None
 
 
+
+
+
+
+
+
+
+
+
+
 class CacheClient:
     def __init__(self, prefix: str = "", ttl: int = settings.redis_ttl):
         self.prefix = prefix
@@ -69,5 +79,6 @@ class CacheClient:
             logger.warning("cache_delete_pattern_error", pattern=pattern, error=str(e))
 
 
+registration_cache = CacheClient(prefix='registration',ttl=settings.redis_ttl_small)
 product_cache = CacheClient(prefix="product", ttl=settings.redis_ttl)
 category_cache = CacheClient(prefix="category", ttl=settings.redis_ttl)

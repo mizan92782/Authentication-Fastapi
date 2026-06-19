@@ -3,9 +3,31 @@ from app.core.exceptions import ConflictException, UnauthorizedException
 from app.modules.users.repository import UserRepository
 from app.modules.auth.schemas import LoginRequest, TokenResponse, AccessTokenResponse
 from app.modules.users.schemas import UserCreate, UserResponse
+from app.shared.enums.role_enum import RoleEnum
+from app.infrastructure.redis.client import registration_cache
+from app.infrastructure.celery.tasks import registraion_otp_send_eamil_delay
+from app.shared.responses.api_response import SuccessResponse, ErrorResponse
+from app.shared.utils.opt import OTPService
 
 
 class AuthService:
+
+    @staticmethod
+    async def registration_otp_cache(data):
+        if await UserRepository.email_exists(data.email):
+            raise ConflictException("Email alredy registered")
+
+        #=== generte opt and add opt to data field
+        otp = OTPService.otp_generator(4)
+        #=====set data in cache
+        await registration_cache.set(key=data.email, value=data.model_dump())
+        registraion_otp_send_eamil_delay.delay(data.email, otp)
+
+        return SuccessResponse(message=f"OTP sent to {data.email}. Verify within 5 minutes.")
+    
+        
+
+
     @staticmethod
     async def register(data: UserCreate) -> UserResponse:
         if await UserRepository.email_exists(data.email):
@@ -15,11 +37,12 @@ class AuthService:
 
         user = await UserRepository.create(
             email=data.email,
-            username=data.username,
-            full_name=data.full_name,
+            first_name = data.firs_name,
+            last_name=data.last_name,
             hashed_password=hash_password(data.password),
-            phone=data.phone,
-            address=data.address,
+            role = RoleEnum.ADMIN
+            
+            
         )
         return UserResponse.model_validate(user)
 
