@@ -1,5 +1,13 @@
 [
     {
+        "label": "AuthService",
+        "importPath": "app.modules.auth.service",
+        "description": "app.modules.auth.service",
+        "isExtraImport": true,
+        "detail": "app.modules.auth.service",
+        "documentation": {}
+    },
+    {
         "label": "APIRouter",
         "importPath": "fastapi",
         "description": "fastapi",
@@ -9,6 +17,22 @@
     },
     {
         "label": "Form",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
         "importPath": "fastapi",
         "description": "fastapi",
         "isExtraImport": true,
@@ -184,11 +208,51 @@
         "documentation": {}
     },
     {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
         "label": "FastAPI",
         "importPath": "fastapi",
         "description": "fastapi",
         "isExtraImport": true,
         "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "OtpVeritySchema",
+        "importPath": "app.modules.auth.schemas",
+        "description": "app.modules.auth.schemas",
+        "isExtraImport": true,
+        "detail": "app.modules.auth.schemas",
         "documentation": {}
     },
     {
@@ -221,6 +285,38 @@
         "description": "app.modules.auth.schemas",
         "isExtraImport": true,
         "detail": "app.modules.auth.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "OtpVeritySchema",
+        "importPath": "app.modules.auth.schemas",
+        "description": "app.modules.auth.schemas",
+        "isExtraImport": true,
+        "detail": "app.modules.auth.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "OtpVeritySchemaResponse",
+        "importPath": "app.modules.auth.schemas",
+        "description": "app.modules.auth.schemas",
+        "isExtraImport": true,
+        "detail": "app.modules.auth.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "get_ip",
+        "importPath": "app.shared.throttling.ip",
+        "description": "app.shared.throttling.ip",
+        "isExtraImport": true,
+        "detail": "app.shared.throttling.ip",
+        "documentation": {}
+    },
+    {
+        "label": "non_user_allowed",
+        "importPath": "app.shared.throttling.ratelimiting",
+        "description": "app.shared.throttling.ratelimiting",
+        "isExtraImport": true,
+        "detail": "app.shared.throttling.ratelimiting",
         "documentation": {}
     },
     {
@@ -409,6 +505,14 @@
     },
     {
         "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
         "importPath": "typing",
         "description": "typing",
         "isExtraImport": true,
@@ -900,6 +1004,14 @@
         "documentation": {}
     },
     {
+        "label": "settings",
+        "importPath": "app.core.config",
+        "description": "app.core.config",
+        "isExtraImport": true,
+        "detail": "app.core.config",
+        "documentation": {}
+    },
+    {
         "label": "HTTPAuthorizationCredentials",
         "importPath": "fastapi.security",
         "description": "fastapi.security",
@@ -949,6 +1061,14 @@
     },
     {
         "label": "UnauthorizedException",
+        "importPath": "app.core.exceptions",
+        "description": "app.core.exceptions",
+        "isExtraImport": true,
+        "detail": "app.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "BadRequestException",
         "importPath": "app.core.exceptions",
         "description": "app.core.exceptions",
         "isExtraImport": true,
@@ -1021,6 +1141,22 @@
     },
     {
         "label": "PaginationParams",
+        "importPath": "app.shared.responses.api_response",
+        "description": "app.shared.responses.api_response",
+        "isExtraImport": true,
+        "detail": "app.shared.responses.api_response",
+        "documentation": {}
+    },
+    {
+        "label": "SuccessResponse",
+        "importPath": "app.shared.responses.api_response",
+        "description": "app.shared.responses.api_response",
+        "isExtraImport": true,
+        "detail": "app.shared.responses.api_response",
+        "documentation": {}
+    },
+    {
+        "label": "ErrorResponse",
         "importPath": "app.shared.responses.api_response",
         "description": "app.shared.responses.api_response",
         "isExtraImport": true,
@@ -1193,11 +1329,44 @@
         "documentation": {}
     },
     {
-        "label": "shared_task",
-        "importPath": "celery",
-        "description": "celery",
+        "label": "celery_app",
+        "importPath": "app.infrastructure.celery.app",
+        "description": "app.infrastructure.celery.app",
         "isExtraImport": true,
-        "detail": "celery",
+        "detail": "app.infrastructure.celery.app",
+        "documentation": {}
+    },
+    {
+        "label": "smtplib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "smtplib",
+        "description": "smtplib",
+        "detail": "smtplib",
+        "documentation": {}
+    },
+    {
+        "label": "MIMEText",
+        "importPath": "email.mime.text",
+        "description": "email.mime.text",
+        "isExtraImport": true,
+        "detail": "email.mime.text",
+        "documentation": {}
+    },
+    {
+        "label": "registraion_otp_send_eamil_delay",
+        "importPath": "app.infrastructure.celery.tasks",
+        "description": "app.infrastructure.celery.tasks",
+        "isExtraImport": true,
+        "detail": "app.infrastructure.celery.tasks",
+        "documentation": {}
+    },
+    {
+        "label": "registraion_otp_send_eamil_delay",
+        "importPath": "app.infrastructure.celery.tasks",
+        "description": "app.infrastructure.celery.tasks",
+        "isExtraImport": true,
+        "detail": "app.infrastructure.celery.tasks",
         "documentation": {}
     },
     {
@@ -1283,6 +1452,30 @@
         "documentation": {}
     },
     {
+        "label": "RoleEnum",
+        "importPath": "app.shared.enums.role_enum",
+        "description": "app.shared.enums.role_enum",
+        "isExtraImport": true,
+        "detail": "app.shared.enums.role_enum",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.modules.users.models",
+        "description": "app.modules.users.models",
+        "isExtraImport": true,
+        "detail": "app.modules.users.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.modules.users.models",
+        "description": "app.modules.users.models",
+        "isExtraImport": true,
+        "detail": "app.modules.users.models",
+        "documentation": {}
+    },
+    {
         "label": "UserRepository",
         "importPath": "app.modules.users.repository",
         "description": "app.modules.users.repository",
@@ -1307,19 +1500,43 @@
         "documentation": {}
     },
     {
+        "label": "registration_cache",
+        "importPath": "app.infrastructure.redis.client",
+        "description": "app.infrastructure.redis.client",
+        "isExtraImport": true,
+        "detail": "app.infrastructure.redis.client",
+        "documentation": {}
+    },
+    {
+        "label": "get_redis",
+        "importPath": "app.infrastructure.redis.client",
+        "description": "app.infrastructure.redis.client",
+        "isExtraImport": true,
+        "detail": "app.infrastructure.redis.client",
+        "documentation": {}
+    },
+    {
+        "label": "close_redis",
+        "importPath": "app.infrastructure.redis.client",
+        "description": "app.infrastructure.redis.client",
+        "isExtraImport": true,
+        "detail": "app.infrastructure.redis.client",
+        "documentation": {}
+    },
+    {
+        "label": "OTPService",
+        "importPath": "app.shared.utils.opt",
+        "description": "app.shared.utils.opt",
+        "isExtraImport": true,
+        "detail": "app.shared.utils.opt",
+        "documentation": {}
+    },
+    {
         "label": "BaseModel",
         "importPath": "app.shared.base.base_model",
         "description": "app.shared.base.base_model",
         "isExtraImport": true,
         "detail": "app.shared.base.base_model",
-        "documentation": {}
-    },
-    {
-        "label": "User",
-        "importPath": "app.modules.users.models",
-        "description": "app.modules.users.models",
-        "isExtraImport": true,
-        "detail": "app.modules.users.models",
         "documentation": {}
     },
     {
@@ -1455,6 +1672,15 @@
         "documentation": {}
     },
     {
+        "label": "secrets",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "secrets",
+        "description": "secrets",
+        "detail": "secrets",
+        "documentation": {}
+    },
+    {
         "label": "CORSMiddleware",
         "importPath": "fastapi.middleware.cors",
         "description": "fastapi.middleware.cors",
@@ -1495,27 +1721,11 @@
         "documentation": {}
     },
     {
-        "label": "Instrumentator",
-        "importPath": "prometheus_fastapi_instrumentator",
-        "description": "prometheus_fastapi_instrumentator",
-        "isExtraImport": true,
-        "detail": "prometheus_fastapi_instrumentator",
-        "documentation": {}
-    },
-    {
         "label": "api_v1_router",
         "importPath": "app.api.v1.router",
         "description": "app.api.v1.router",
         "isExtraImport": true,
         "detail": "app.api.v1.router",
-        "documentation": {}
-    },
-    {
-        "label": "close_redis",
-        "importPath": "app.infrastructure.redis.client",
-        "description": "app.infrastructure.redis.client",
-        "isExtraImport": true,
-        "detail": "app.infrastructure.redis.client",
         "documentation": {}
     },
     {
@@ -1551,20 +1761,11 @@
         "documentation": {}
     },
     {
-        "label": "register_user",
-        "kind": 2,
-        "importPath": "app.api.v1.auth_routes",
-        "description": "app.api.v1.auth_routes",
-        "peekOfCode": "def register_user(\n    first_name: str = Form(..., description=\"e.g. John\"),\n    last_name: str = Form(..., description=\"e.g. Doe\"),\n    email: str = Form(..., description=\"Must end with @gmail.com\"),\n    password1: str = Form(..., description=\"Exactly 8 characters\"),\n    password2: str = Form(..., description=\"Must match password1\"),\n):\n    \"\"\"\n    Register a new user account.\n    - **email**: must end with `@gmail.com`",
-        "detail": "app.api.v1.auth_routes",
-        "documentation": {}
-    },
-    {
         "label": "router",
         "kind": 5,
         "importPath": "app.api.v1.auth_routes",
         "description": "app.api.v1.auth_routes",
-        "peekOfCode": "router = APIRouter()\n@router.post(\"/user/register/\", summary=\"Register a new user\")\ndef register_user(\n    first_name: str = Form(..., description=\"e.g. John\"),\n    last_name: str = Form(..., description=\"e.g. Doe\"),\n    email: str = Form(..., description=\"Must end with @gmail.com\"),\n    password1: str = Form(..., description=\"Exactly 8 characters\"),\n    password2: str = Form(..., description=\"Must match password1\"),\n):\n    \"\"\"",
+        "peekOfCode": "router = APIRouter()\n@router.post(\"/user/register/\", summary=\"Register a new user\")\nasync def register_user(\n    request: Request,\n    first_name: str = Form(..., description=\"e.g. John\"),\n    last_name: str = Form(..., description=\"e.g. Doe\"),\n    email: str = Form(..., description=\"Must end with @gmail.com\"),\n    password1: str = Form(..., description=\"Exactly 8 characters\"),\n    password2: str = Form(..., description=\"Must match password1\"),\n):",
         "detail": "app.api.v1.auth_routes",
         "documentation": {}
     },
@@ -1897,25 +2098,16 @@
         "kind": 5,
         "importPath": "app.infrastructure.celery.app",
         "description": "app.infrastructure.celery.app",
-        "peekOfCode": "celery_app = Celery(\n    \"ecommerce\",\n    broker=settings.rabbitmq_url,\n    backend=settings.redis_url,\n    include=[\n        \"app.tasks.order_tasks\",\n        \"app.tasks.notification_tasks\",\n    ],\n)\ncelery_app.conf.update(",
+        "peekOfCode": "celery_app = Celery(\n    \"ecommerce\",\n    broker=settings.rabbitmq_url,\n    backend=settings.redis_url,\n    include=[\n        \"app.infrastructure.celery.tasks\",\n    ],\n)\ncelery_app.conf.update(\n    task_serializer=\"json\",",
         "detail": "app.infrastructure.celery.app",
         "documentation": {}
     },
     {
-        "label": "send_order_confirmation",
+        "label": "registraion_otp_send_eamil_delay",
         "kind": 2,
         "importPath": "app.infrastructure.celery.tasks",
         "description": "app.infrastructure.celery.tasks",
-        "peekOfCode": "def send_order_confirmation(self, order_id: str, user_id: str) -> dict:\n    try:\n        logger.info(\"sending_order_confirmation\", order_id=order_id, user_id=user_id)\n        # Email sending logic here (SMTP / SES)\n        return {\"status\": \"sent\", \"order_id\": order_id}\n    except Exception as exc:\n        logger.error(\"order_confirmation_failed\", order_id=order_id, error=str(exc))\n        raise self.retry(exc=exc)\n@shared_task(\n    bind=True,",
-        "detail": "app.infrastructure.celery.tasks",
-        "documentation": {}
-    },
-    {
-        "label": "update_inventory",
-        "kind": 2,
-        "importPath": "app.infrastructure.celery.tasks",
-        "description": "app.infrastructure.celery.tasks",
-        "peekOfCode": "def update_inventory(self, order_id: str) -> dict:\n    try:\n        logger.info(\"updating_inventory\", order_id=order_id)\n        # Inventory sync logic (warehouse, ERP, etc.)\n        return {\"status\": \"updated\", \"order_id\": order_id}\n    except Exception as exc:\n        logger.error(\"inventory_update_failed\", order_id=order_id, error=str(exc))\n        raise self.retry(exc=exc)",
+        "peekOfCode": "def registraion_otp_send_eamil_delay(email, otp):\n    logger.info(\"sending_registration_otp\", email=email)\n    msg = MIMEText(f\"Your OTP is: {otp}. Valid for 5 minutes.\")\n    msg[\"Subject\"] = \"Registration OTP\"\n    msg[\"From\"] = settings.smtp_from\n    msg[\"To\"] = email\n    with smtplib.SMTP(settings.smtp_host, settings.smtp_port) as smtp:\n        smtp.starttls()\n        smtp.login(settings.smtp_user, settings.smtp_password)\n        smtp.sendmail(settings.smtp_from, email, msg.as_string())",
         "detail": "app.infrastructure.celery.tasks",
         "documentation": {}
     },
@@ -1924,8 +2116,17 @@
         "kind": 5,
         "importPath": "app.infrastructure.celery.tasks",
         "description": "app.infrastructure.celery.tasks",
-        "peekOfCode": "logger = get_logger(__name__)\n@shared_task(\n    bind=True,\n    name=\"app.tasks.order_tasks.send_order_confirmation\",\n    max_retries=3,\n    default_retry_delay=60,\n)\ndef send_order_confirmation(self, order_id: str, user_id: str) -> dict:\n    try:\n        logger.info(\"sending_order_confirmation\", order_id=order_id, user_id=user_id)",
+        "peekOfCode": "logger = get_logger(__name__)\n@celery_app.task\ndef registraion_otp_send_eamil_delay(email, otp):\n    logger.info(\"sending_registration_otp\", email=email)\n    msg = MIMEText(f\"Your OTP is: {otp}. Valid for 5 minutes.\")\n    msg[\"Subject\"] = \"Registration OTP\"\n    msg[\"From\"] = settings.smtp_from\n    msg[\"To\"] = email\n    with smtplib.SMTP(settings.smtp_host, settings.smtp_port) as smtp:\n        smtp.starttls()",
         "detail": "app.infrastructure.celery.tasks",
+        "documentation": {}
+    },
+    {
+        "label": "EmailServices",
+        "kind": 6,
+        "importPath": "app.infrastructure.email.mailer",
+        "description": "app.infrastructure.email.mailer",
+        "peekOfCode": "class EmailServices:\n    @staticmethod\n    def registration_otp_send_email(email,otp):\n        registraion_otp_send_eamil_delay.delay(email,otp)",
+        "detail": "app.infrastructure.email.mailer",
         "documentation": {}
     },
     {
@@ -1943,6 +2144,15 @@
         "importPath": "app.infrastructure.redis.client",
         "description": "app.infrastructure.redis.client",
         "peekOfCode": "logger = get_logger(__name__)\n_redis_pool: Optional[aioredis.Redis] = None\nasync def get_redis() -> aioredis.Redis:\n    global _redis_pool\n    if _redis_pool is None:\n        _redis_pool = aioredis.from_url(\n            settings.redis_url,\n            encoding=\"utf-8\",\n            decode_responses=True,\n            max_connections=20,",
+        "detail": "app.infrastructure.redis.client",
+        "documentation": {}
+    },
+    {
+        "label": "registration_cache",
+        "kind": 5,
+        "importPath": "app.infrastructure.redis.client",
+        "description": "app.infrastructure.redis.client",
+        "peekOfCode": "registration_cache = CacheClient(prefix='registration',ttl=settings.redis_ttl_small)\nproduct_cache = CacheClient(prefix=\"product\", ttl=settings.redis_ttl)\ncategory_cache = CacheClient(prefix=\"category\", ttl=settings.redis_ttl)",
         "detail": "app.infrastructure.redis.client",
         "documentation": {}
     },
@@ -2001,11 +2211,56 @@
         "documentation": {}
     },
     {
+        "label": "OtpVeritySchema",
+        "kind": 6,
+        "importPath": "app.modules.auth.schemas",
+        "description": "app.modules.auth.schemas",
+        "peekOfCode": "class OtpVeritySchema(BaseModel):\n    email: EmailStr\n    otp: str\nclass TokenResponse(BaseModel):\n    access_token: str\n    refresh_token: str\n    token_type: str = \"bearer\"\nclass OtpVeritySchemaResponse(BaseModel):\n    first_name: str\n    last_name: str",
+        "detail": "app.modules.auth.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "TokenResponse",
+        "kind": 6,
+        "importPath": "app.modules.auth.schemas",
+        "description": "app.modules.auth.schemas",
+        "peekOfCode": "class TokenResponse(BaseModel):\n    access_token: str\n    refresh_token: str\n    token_type: str = \"bearer\"\nclass OtpVeritySchemaResponse(BaseModel):\n    first_name: str\n    last_name: str\n    email: EmailStr\n    dp: Optional[str]\n    access_token: str",
+        "detail": "app.modules.auth.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "OtpVeritySchemaResponse",
+        "kind": 6,
+        "importPath": "app.modules.auth.schemas",
+        "description": "app.modules.auth.schemas",
+        "peekOfCode": "class OtpVeritySchemaResponse(BaseModel):\n    first_name: str\n    last_name: str\n    email: EmailStr\n    dp: Optional[str]\n    access_token: str\n    refresh_token: str\n    token_type: str = \"bearer\"\nclass LoginRequest(BaseModel):\n    email: EmailStr",
+        "detail": "app.modules.auth.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "LoginRequest",
+        "kind": 6,
+        "importPath": "app.modules.auth.schemas",
+        "description": "app.modules.auth.schemas",
+        "peekOfCode": "class LoginRequest(BaseModel):\n    email: EmailStr\n    password: str\nclass AccessTokenResponse(BaseModel):\n    access_token: str\n    token_type: str = \"bearer\"",
+        "detail": "app.modules.auth.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "AccessTokenResponse",
+        "kind": 6,
+        "importPath": "app.modules.auth.schemas",
+        "description": "app.modules.auth.schemas",
+        "peekOfCode": "class AccessTokenResponse(BaseModel):\n    access_token: str\n    token_type: str = \"bearer\"",
+        "detail": "app.modules.auth.schemas",
+        "documentation": {}
+    },
+    {
         "label": "AuthService",
         "kind": 6,
         "importPath": "app.modules.auth.service",
         "description": "app.modules.auth.service",
-        "peekOfCode": "class AuthService:\n    @staticmethod\n    async def register(data: UserCreate) -> UserResponse:\n        if await UserRepository.email_exists(data.email):\n            raise ConflictException(\"Email already registered\")\n        if await UserRepository.username_exists(data.username):\n            raise ConflictException(\"Username already taken\")\n        user = await UserRepository.create(\n            email=data.email,\n            username=data.username,",
+        "peekOfCode": "class AuthService:\n    @staticmethod\n    async def registration_otp_cache(data):\n        if await UserRepository.email_exists(data.email):\n            raise ConflictException(\"Email alredy registered\")\n        #=== generte opt and add opt to data field\n        otp = OTPService.otp_generator(4)\n        #=====set data in cache\n        cached = data.model_dump()\n        cached[\"otp\"] = otp",
         "detail": "app.modules.auth.service",
         "documentation": {}
     },
@@ -2214,6 +2469,42 @@
         "description": "app.shared.responses.api_response",
         "peekOfCode": "T = TypeVar(\"T\")\nclass SuccessResponse(BaseModel, Generic[T]):\n    success: bool = True\n    message: str = \"OK\"\n    data: Optional[T] = None\nclass ErrorResponse(BaseModel):\n    success: bool = False\n    message: str='Error'\n    errors: Optional[Any] = None\nclass PaginatedResponse(BaseModel, Generic[T]):",
         "detail": "app.shared.responses.api_response",
+        "documentation": {}
+    },
+    {
+        "label": "get_ip",
+        "kind": 2,
+        "importPath": "app.shared.throttling.ip",
+        "description": "app.shared.throttling.ip",
+        "peekOfCode": "def get_ip(request: Request):\n    return request.client.host\ndef get_user_id(request:Request):\n    return request.headers.get(\"user-id\")",
+        "detail": "app.shared.throttling.ip",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_id",
+        "kind": 2,
+        "importPath": "app.shared.throttling.ip",
+        "description": "app.shared.throttling.ip",
+        "peekOfCode": "def get_user_id(request:Request):\n    return request.headers.get(\"user-id\")",
+        "detail": "app.shared.throttling.ip",
+        "documentation": {}
+    },
+    {
+        "label": "rate_limit",
+        "kind": 2,
+        "importPath": "app.shared.throttling.ratelimiting",
+        "description": "app.shared.throttling.ratelimiting",
+        "peekOfCode": "def rate_limit(limit: int, window: int):\n    def decorator(func):\n        async def wrapper(request: Request, *args, **kwargs):\n            redis_client = await get_redis()\n            ip = request.client.host\n            key = f\"rate:decorator:{func.__name__}:{ip}\"\n            now = int(time.time())\n            await redis_client.zremrangebyscore(key, 0, now - window)\n            count = await redis_client.zcard(key)\n            if count >= limit:",
+        "detail": "app.shared.throttling.ratelimiting",
+        "documentation": {}
+    },
+    {
+        "label": "OTPService",
+        "kind": 6,
+        "importPath": "app.shared.utils.opt",
+        "description": "app.shared.utils.opt",
+        "peekOfCode": "class OTPService:\n    @staticmethod\n    def otp_generator(length=4):\n        otp = ''.join(str(secrets.randbelow(10)) for _ in range(length))\n        return otp",
+        "detail": "app.shared.utils.opt",
         "documentation": {}
     },
     {

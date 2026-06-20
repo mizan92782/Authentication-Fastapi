@@ -1,3 +1,4 @@
+from typing import Optional
 from pydantic import BaseModel, EmailStr, Field, field_validator, model_validator
 from app.shared.enums.role_enum import RoleEnum
 
@@ -38,10 +39,11 @@ class UserRegisterSchema(BaseModel):
             raise ValueError("Passwords do not match")
         return self
 
-
-class LoginRequest(BaseModel):
+        
+    
+class OtpVeritySchema(BaseModel):
     email: EmailStr
-    password: str
+    otp: str
 
 
 class TokenResponse(BaseModel):
@@ -49,6 +51,21 @@ class TokenResponse(BaseModel):
     refresh_token: str
     token_type: str = "bearer"
 
+
+class OtpVeritySchemaResponse(BaseModel):
+    first_name: str
+    last_name: str
+    email: EmailStr
+    dp: Optional[str]
+    access_token: str
+    refresh_token: str
+    token_type: str = "bearer"
+    
+
+class LoginRequest(BaseModel):
+    email: EmailStr
+    password: str
+    
 
 class AccessTokenResponse(BaseModel):
     access_token: str
