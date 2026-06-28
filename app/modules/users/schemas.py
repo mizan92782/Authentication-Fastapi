@@ -24,24 +24,7 @@ class UserCreate(BaseModel):
     def validate_password(cls, v: str) -> str:
         if len(v) < 8:
             raise ValueError("Password must be at least 8 characters")
-        if not re.search(r"[A-Z]", v):
-            raise ValueError("Password must contain an uppercase letter")
-        if not re.search(r"\d", v):
-            raise ValueError("Password must contain a digit")
         return v
-
-class UserResponse(BaseModel):
-    model_config = ConfigDict(from_attributes=True)
-    
-    id: uuid.UUID
-    email: str
-    username: str
-    full_name: str
-    role: str
-    is_active: bool
-    phone: Optional[str] = None
-    address: Optional[str] = None
-
 
 
 class UserUpdate(BaseModel):
@@ -50,6 +33,14 @@ class UserUpdate(BaseModel):
     address: Optional[str] = None
 
 
+class UserResponse(BaseModel):
+    model_config = ConfigDict(from_attributes=True)
+
+    id: uuid.UUID
+    email: EmailStr
+    first_name: str
+    last_name: str
+    is_active: bool
 
 
 class UserInDB(UserResponse):

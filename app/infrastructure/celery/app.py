@@ -5,9 +5,7 @@ celery_app = Celery(
     "ecommerce",
     broker=settings.rabbitmq_url,
     backend=settings.redis_url,
-    include=[
-        "app.infrastructure.celery.tasks",
-    ],
+    include=["app.infrastructure.celery.tasks"],
 )
 
 celery_app.conf.update(

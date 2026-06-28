@@ -79,6 +79,9 @@ class CacheClient:
             logger.warning("cache_delete_pattern_error", pattern=pattern, error=str(e))
 
 
-registration_cache = CacheClient(prefix='registration',ttl=settings.redis_ttl_small)
+registration_cache = CacheClient(prefix="registration", ttl=settings.redis_ttl_small)
+password_reset_cache = CacheClient(prefix="password_reset", ttl=settings.redis_ttl_small)
+token_blacklist_cache = CacheClient(prefix="blacklist", ttl=settings.redis_ttl)
+otp_cooldown_cache = CacheClient(prefix="otp_cooldown", ttl=60)  # 60 second cooldown
 product_cache = CacheClient(prefix="product", ttl=settings.redis_ttl)
 category_cache = CacheClient(prefix="category", ttl=settings.redis_ttl)

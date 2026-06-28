@@ -1,9 +1,9 @@
 from contextlib import asynccontextmanager
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from slowapi import Limiter, _rate_limit_exceeded_handler
-from slowapi.util import get_remote_address
+from slowapi import _rate_limit_exceeded_handler
 from slowapi.errors import RateLimitExceeded
+from app.core.limiter import limiter
 
 from app.api.v1.router import api_v1_router
 from app.infrastructure.redis.client import close_redis
@@ -23,8 +23,6 @@ async def lifespan(app: FastAPI):
     await close_db()
     await close_redis()
 
-
-limiter = Limiter(key_func=get_remote_address, default_limits=[f"{settings.rate_limit_per_minute}/minute"])
 
 app = FastAPI(
     title=settings.app_name,
@@ -53,6 +51,7 @@ register_exception_handlers(app)
 
 # Routes
 app.include_router(api_v1_router)
+
 
 
 @app.get("/health", tags=["Health"])
