@@ -1,4 +1,4 @@
-ok # FastAPI Gmail Authentication Template
+# FastAPI Gmail Authentication Template
 
 A production-ready FastAPI authentication template with OTP-based registration via Gmail SMTP, JWT tokens, Redis caching, Celery async email, and RabbitMQ message broker.
 
@@ -185,6 +185,3 @@ docker compose up --build -d
 
 ---
 
-## License
-
-MIT
