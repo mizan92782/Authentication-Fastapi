@@ -1,35 +1,52 @@
 from fastapi import APIRouter, Depends, Query
-from app.core.dependencies import get_current_user
-from app.core.permissions import require_admin
-from app.schemas.common import PaginatedResponse, SuccessResponse
-from app.schemas.order import OrderCreate, OrderResponse, OrderStatusUpdate
-from app.services.order_service import OrderService
+from app.core.dependencies import get_current_user, require_admin
+from app.modules.orders.schemas import OrderCreate, OrderResponse
+from app.modules.orders.service import OrderService
+from app.shared.responses.api_response import SuccessResponse, PaginatedResponse
+import math
 
-router = APIRouter(prefix="/orders", tags=["Orders"])
+order_router = APIRouter()
 
 
-@router.post("", response_model=SuccessResponse[OrderResponse], status_code=201)
+@order_router.post("/", response_model=SuccessResponse[OrderResponse], status_code=201)
 async def create_order(data: OrderCreate, current_user=Depends(get_current_user)):
-    order = await OrderService.create_order(str(current_user.id), data)
+    order = await OrderService.create(current_user, data)
     return SuccessResponse(message="Order placed successfully", data=order)
 
 
-@router.get("/me", response_model=PaginatedResponse[OrderResponse])
+@order_router.get("/me/", response_model=PaginatedResponse[OrderResponse])
 async def my_orders(
     page: int = Query(1, ge=1),
     page_size: int = Query(20, ge=1, le=100),
     current_user=Depends(get_current_user),
 ):
-    return await OrderService.get_user_orders(str(current_user.id), page, page_size)
+    orders, total = await OrderService.list_mine(current_user, page, page_size)
+    return PaginatedResponse(
+        data=orders,
+        total=total,
+        page=page,
+        page_size=page_size,
+        total_pages=math.ceil(total / page_size),
+    )
 
 
-@router.get("/{order_id}", response_model=SuccessResponse[OrderResponse])
+@order_router.get("/{order_id}/", response_model=SuccessResponse[OrderResponse])
 async def get_order(order_id: str, current_user=Depends(get_current_user)):
-    order = await OrderService.get_order(order_id, str(current_user.id), current_user.role)
+    order = await OrderService.get(order_id, user=current_user)
     return SuccessResponse(data=order)
 
 
-@router.patch("/{order_id}/status", response_model=SuccessResponse[OrderResponse], dependencies=[Depends(require_admin)])
-async def update_order_status(order_id: str, data: OrderStatusUpdate):
-    order = await OrderService.update_status(order_id, data)
+@order_router.post("/{order_id}/cancel/", response_model=SuccessResponse[OrderResponse])
+async def cancel_order(order_id: str, current_user=Depends(get_current_user)):
+    order = await OrderService.cancel(order_id, current_user)
+    return SuccessResponse(message="Order cancelled", data=order)
+
+
+@order_router.patch("/{order_id}/status/", response_model=SuccessResponse[OrderResponse])
+async def update_order_status(
+    order_id: str,
+    status: str,
+    _=Depends(require_admin),
+):
+    order = await OrderService.update_status(order_id, status)
     return SuccessResponse(message="Order status updated", data=order)

@@ -10,6 +10,9 @@ python-jose[cryptography]
 passlib[bcrypt]
 python-multipart
 python-decouple
-google-generativeai
+anthropic
 structlog
 slowapi
+mcp[cli]
+httpx
+python-dotenv

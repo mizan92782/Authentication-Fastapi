@@ -1,0 +1,3926 @@
+[
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Generic",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Type",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TypeVar",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Generic",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TypeVar",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Form",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Query",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Query",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Query",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Query",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "field_validator",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "EmailStr",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "field_validator",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "model_validator",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "EmailStr",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "field_validator",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigDict",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "chat",
+        "importPath": "app.modules.ai.service",
+        "description": "app.modules.ai.service",
+        "isExtraImport": true,
+        "detail": "app.modules.ai.service",
+        "documentation": {}
+    },
+    {
+        "label": "SuccessResponse",
+        "importPath": "app.shared.responses.api_response",
+        "description": "app.shared.responses.api_response",
+        "isExtraImport": true,
+        "detail": "app.shared.responses.api_response",
+        "documentation": {}
+    },
+    {
+        "label": "SuccessResponse",
+        "importPath": "app.shared.responses.api_response",
+        "description": "app.shared.responses.api_response",
+        "isExtraImport": true,
+        "detail": "app.shared.responses.api_response",
+        "documentation": {}
+    },
+    {
+        "label": "SuccessResponse",
+        "importPath": "app.shared.responses.api_response",
+        "description": "app.shared.responses.api_response",
+        "isExtraImport": true,
+        "detail": "app.shared.responses.api_response",
+        "documentation": {}
+    },
+    {
+        "label": "SuccessResponse",
+        "importPath": "app.shared.responses.api_response",
+        "description": "app.shared.responses.api_response",
+        "isExtraImport": true,
+        "detail": "app.shared.responses.api_response",
+        "documentation": {}
+    },
+    {
+        "label": "PaginatedResponse",
+        "importPath": "app.shared.responses.api_response",
+        "description": "app.shared.responses.api_response",
+        "isExtraImport": true,
+        "detail": "app.shared.responses.api_response",
+        "documentation": {}
+    },
+    {
+        "label": "PaginationParams",
+        "importPath": "app.shared.responses.api_response",
+        "description": "app.shared.responses.api_response",
+        "isExtraImport": true,
+        "detail": "app.shared.responses.api_response",
+        "documentation": {}
+    },
+    {
+        "label": "SuccessResponse",
+        "importPath": "app.shared.responses.api_response",
+        "description": "app.shared.responses.api_response",
+        "isExtraImport": true,
+        "detail": "app.shared.responses.api_response",
+        "documentation": {}
+    },
+    {
+        "label": "get_optional_user",
+        "importPath": "app.core.dependencies",
+        "description": "app.core.dependencies",
+        "isExtraImport": true,
+        "detail": "app.core.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "app.core.dependencies",
+        "description": "app.core.dependencies",
+        "isExtraImport": true,
+        "detail": "app.core.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "app.core.dependencies",
+        "description": "app.core.dependencies",
+        "isExtraImport": true,
+        "detail": "app.core.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "require_admin",
+        "importPath": "app.core.dependencies",
+        "description": "app.core.dependencies",
+        "isExtraImport": true,
+        "detail": "app.core.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "app.core.dependencies",
+        "description": "app.core.dependencies",
+        "isExtraImport": true,
+        "detail": "app.core.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "app.core.dependencies",
+        "description": "app.core.dependencies",
+        "isExtraImport": true,
+        "detail": "app.core.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "limiter",
+        "importPath": "app.core.limiter",
+        "description": "app.core.limiter",
+        "isExtraImport": true,
+        "detail": "app.core.limiter",
+        "documentation": {}
+    },
+    {
+        "label": "limiter",
+        "importPath": "app.core.limiter",
+        "description": "app.core.limiter",
+        "isExtraImport": true,
+        "detail": "app.core.limiter",
+        "documentation": {}
+    },
+    {
+        "label": "limiter",
+        "importPath": "app.core.limiter",
+        "description": "app.core.limiter",
+        "isExtraImport": true,
+        "detail": "app.core.limiter",
+        "documentation": {}
+    },
+    {
+        "label": "AuthService",
+        "importPath": "app.modules.auth.service",
+        "description": "app.modules.auth.service",
+        "isExtraImport": true,
+        "detail": "app.modules.auth.service",
+        "documentation": {}
+    },
+    {
+        "label": "LoginRequest",
+        "importPath": "app.modules.auth.schemas",
+        "description": "app.modules.auth.schemas",
+        "isExtraImport": true,
+        "detail": "app.modules.auth.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "PasswordChangeRequest",
+        "importPath": "app.modules.auth.schemas",
+        "description": "app.modules.auth.schemas",
+        "isExtraImport": true,
+        "detail": "app.modules.auth.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "PasswordResetRequest",
+        "importPath": "app.modules.auth.schemas",
+        "description": "app.modules.auth.schemas",
+        "isExtraImport": true,
+        "detail": "app.modules.auth.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterRequest",
+        "importPath": "app.modules.auth.schemas",
+        "description": "app.modules.auth.schemas",
+        "isExtraImport": true,
+        "detail": "app.modules.auth.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterResponse",
+        "importPath": "app.modules.auth.schemas",
+        "description": "app.modules.auth.schemas",
+        "isExtraImport": true,
+        "detail": "app.modules.auth.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "TokenResponse",
+        "importPath": "app.modules.auth.schemas",
+        "description": "app.modules.auth.schemas",
+        "isExtraImport": true,
+        "detail": "app.modules.auth.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "AccessTokenResponse",
+        "importPath": "app.modules.auth.schemas",
+        "description": "app.modules.auth.schemas",
+        "isExtraImport": true,
+        "detail": "app.modules.auth.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "OtpResendRequest",
+        "importPath": "app.modules.auth.schemas",
+        "description": "app.modules.auth.schemas",
+        "isExtraImport": true,
+        "detail": "app.modules.auth.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "AccessTokenResponse",
+        "importPath": "app.modules.auth.schemas",
+        "description": "app.modules.auth.schemas",
+        "isExtraImport": true,
+        "detail": "app.modules.auth.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "LoginRequest",
+        "importPath": "app.modules.auth.schemas",
+        "description": "app.modules.auth.schemas",
+        "isExtraImport": true,
+        "detail": "app.modules.auth.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterRequest",
+        "importPath": "app.modules.auth.schemas",
+        "description": "app.modules.auth.schemas",
+        "isExtraImport": true,
+        "detail": "app.modules.auth.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterResponse",
+        "importPath": "app.modules.auth.schemas",
+        "description": "app.modules.auth.schemas",
+        "isExtraImport": true,
+        "detail": "app.modules.auth.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "TokenResponse",
+        "importPath": "app.modules.auth.schemas",
+        "description": "app.modules.auth.schemas",
+        "isExtraImport": true,
+        "detail": "app.modules.auth.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "uuid",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uuid",
+        "description": "uuid",
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryCreate",
+        "importPath": "app.modules.catalog.schemas",
+        "description": "app.modules.catalog.schemas",
+        "isExtraImport": true,
+        "detail": "app.modules.catalog.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryUpdate",
+        "importPath": "app.modules.catalog.schemas",
+        "description": "app.modules.catalog.schemas",
+        "isExtraImport": true,
+        "detail": "app.modules.catalog.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryResponse",
+        "importPath": "app.modules.catalog.schemas",
+        "description": "app.modules.catalog.schemas",
+        "isExtraImport": true,
+        "detail": "app.modules.catalog.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "ProductCreate",
+        "importPath": "app.modules.catalog.schemas",
+        "description": "app.modules.catalog.schemas",
+        "isExtraImport": true,
+        "detail": "app.modules.catalog.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "ProductUpdate",
+        "importPath": "app.modules.catalog.schemas",
+        "description": "app.modules.catalog.schemas",
+        "isExtraImport": true,
+        "detail": "app.modules.catalog.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "ProductResponse",
+        "importPath": "app.modules.catalog.schemas",
+        "description": "app.modules.catalog.schemas",
+        "isExtraImport": true,
+        "detail": "app.modules.catalog.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryCreate",
+        "importPath": "app.modules.catalog.schemas",
+        "description": "app.modules.catalog.schemas",
+        "isExtraImport": true,
+        "detail": "app.modules.catalog.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryUpdate",
+        "importPath": "app.modules.catalog.schemas",
+        "description": "app.modules.catalog.schemas",
+        "isExtraImport": true,
+        "detail": "app.modules.catalog.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "ProductCreate",
+        "importPath": "app.modules.catalog.schemas",
+        "description": "app.modules.catalog.schemas",
+        "isExtraImport": true,
+        "detail": "app.modules.catalog.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "ProductUpdate",
+        "importPath": "app.modules.catalog.schemas",
+        "description": "app.modules.catalog.schemas",
+        "isExtraImport": true,
+        "detail": "app.modules.catalog.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryService",
+        "importPath": "app.modules.catalog.service",
+        "description": "app.modules.catalog.service",
+        "isExtraImport": true,
+        "detail": "app.modules.catalog.service",
+        "documentation": {}
+    },
+    {
+        "label": "ProductService",
+        "importPath": "app.modules.catalog.service",
+        "description": "app.modules.catalog.service",
+        "isExtraImport": true,
+        "detail": "app.modules.catalog.service",
+        "documentation": {}
+    },
+    {
+        "label": "handle_chat",
+        "importPath": "app.chatbot.chatbot_service",
+        "description": "app.chatbot.chatbot_service",
+        "isExtraImport": true,
+        "detail": "app.chatbot.chatbot_service",
+        "documentation": {}
+    },
+    {
+        "label": "ChatRequest",
+        "importPath": "app.schemas.chatbot",
+        "description": "app.schemas.chatbot",
+        "isExtraImport": true,
+        "detail": "app.schemas.chatbot",
+        "documentation": {}
+    },
+    {
+        "label": "ChatResponse",
+        "importPath": "app.schemas.chatbot",
+        "description": "app.schemas.chatbot",
+        "isExtraImport": true,
+        "detail": "app.schemas.chatbot",
+        "documentation": {}
+    },
+    {
+        "label": "SuccessResponse",
+        "importPath": "app.schemas.common",
+        "description": "app.schemas.common",
+        "isExtraImport": true,
+        "detail": "app.schemas.common",
+        "documentation": {}
+    },
+    {
+        "label": "PaginatedResponse",
+        "importPath": "app.schemas.common",
+        "description": "app.schemas.common",
+        "isExtraImport": true,
+        "detail": "app.schemas.common",
+        "documentation": {}
+    },
+    {
+        "label": "SuccessResponse",
+        "importPath": "app.schemas.common",
+        "description": "app.schemas.common",
+        "isExtraImport": true,
+        "detail": "app.schemas.common",
+        "documentation": {}
+    },
+    {
+        "label": "SuccessResponse",
+        "importPath": "app.schemas.common",
+        "description": "app.schemas.common",
+        "isExtraImport": true,
+        "detail": "app.schemas.common",
+        "documentation": {}
+    },
+    {
+        "label": "OrderCreate",
+        "importPath": "app.modules.orders.schemas",
+        "description": "app.modules.orders.schemas",
+        "isExtraImport": true,
+        "detail": "app.modules.orders.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "OrderResponse",
+        "importPath": "app.modules.orders.schemas",
+        "description": "app.modules.orders.schemas",
+        "isExtraImport": true,
+        "detail": "app.modules.orders.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "OrderCreate",
+        "importPath": "app.modules.orders.schemas",
+        "description": "app.modules.orders.schemas",
+        "isExtraImport": true,
+        "detail": "app.modules.orders.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "OrderItemCreate",
+        "importPath": "app.modules.orders.schemas",
+        "description": "app.modules.orders.schemas",
+        "isExtraImport": true,
+        "detail": "app.modules.orders.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "OrderCreate",
+        "importPath": "app.modules.orders.schemas",
+        "description": "app.modules.orders.schemas",
+        "isExtraImport": true,
+        "detail": "app.modules.orders.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "OrderItemResponse",
+        "importPath": "app.modules.orders.schemas",
+        "description": "app.modules.orders.schemas",
+        "isExtraImport": true,
+        "detail": "app.modules.orders.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "OrderResponse",
+        "importPath": "app.modules.orders.schemas",
+        "description": "app.modules.orders.schemas",
+        "isExtraImport": true,
+        "detail": "app.modules.orders.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "OrderService",
+        "importPath": "app.modules.orders.service",
+        "description": "app.modules.orders.service",
+        "isExtraImport": true,
+        "detail": "app.modules.orders.service",
+        "documentation": {}
+    },
+    {
+        "label": "OrderService",
+        "importPath": "app.modules.orders.service",
+        "description": "app.modules.orders.service",
+        "isExtraImport": true,
+        "detail": "app.modules.orders.service",
+        "documentation": {}
+    },
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "Decimal",
+        "importPath": "decimal",
+        "description": "decimal",
+        "isExtraImport": true,
+        "detail": "decimal",
+        "documentation": {}
+    },
+    {
+        "label": "Decimal",
+        "importPath": "decimal",
+        "description": "decimal",
+        "isExtraImport": true,
+        "detail": "decimal",
+        "documentation": {}
+    },
+    {
+        "label": "Decimal",
+        "importPath": "decimal",
+        "description": "decimal",
+        "isExtraImport": true,
+        "detail": "decimal",
+        "documentation": {}
+    },
+    {
+        "label": "Decimal",
+        "importPath": "decimal",
+        "description": "decimal",
+        "isExtraImport": true,
+        "detail": "decimal",
+        "documentation": {}
+    },
+    {
+        "label": "Decimal",
+        "importPath": "decimal",
+        "description": "decimal",
+        "isExtraImport": true,
+        "detail": "decimal",
+        "documentation": {}
+    },
+    {
+        "label": "Decimal",
+        "importPath": "decimal",
+        "description": "decimal",
+        "isExtraImport": true,
+        "detail": "decimal",
+        "documentation": {}
+    },
+    {
+        "label": "Decimal",
+        "importPath": "decimal",
+        "description": "decimal",
+        "isExtraImport": true,
+        "detail": "decimal",
+        "documentation": {}
+    },
+    {
+        "label": "require_admin",
+        "importPath": "app.core.permissions",
+        "description": "app.core.permissions",
+        "isExtraImport": true,
+        "detail": "app.core.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "require_admin",
+        "importPath": "app.core.permissions",
+        "description": "app.core.permissions",
+        "isExtraImport": true,
+        "detail": "app.core.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "ProductCreate",
+        "importPath": "app.schemas.product",
+        "description": "app.schemas.product",
+        "isExtraImport": true,
+        "detail": "app.schemas.product",
+        "documentation": {}
+    },
+    {
+        "label": "ProductFilterParams",
+        "importPath": "app.schemas.product",
+        "description": "app.schemas.product",
+        "isExtraImport": true,
+        "detail": "app.schemas.product",
+        "documentation": {}
+    },
+    {
+        "label": "ProductResponse",
+        "importPath": "app.schemas.product",
+        "description": "app.schemas.product",
+        "isExtraImport": true,
+        "detail": "app.schemas.product",
+        "documentation": {}
+    },
+    {
+        "label": "ProductUpdate",
+        "importPath": "app.schemas.product",
+        "description": "app.schemas.product",
+        "isExtraImport": true,
+        "detail": "app.schemas.product",
+        "documentation": {}
+    },
+    {
+        "label": "ProductService",
+        "importPath": "app.services.product_service",
+        "description": "app.services.product_service",
+        "isExtraImport": true,
+        "detail": "app.services.product_service",
+        "documentation": {}
+    },
+    {
+        "label": "auth_router",
+        "importPath": "app.api.v1.auth_routes",
+        "description": "app.api.v1.auth_routes",
+        "isExtraImport": true,
+        "detail": "app.api.v1.auth_routes",
+        "documentation": {}
+    },
+    {
+        "label": "catalog_router",
+        "importPath": "app.api.v1.catalog_routes",
+        "description": "app.api.v1.catalog_routes",
+        "isExtraImport": true,
+        "detail": "app.api.v1.catalog_routes",
+        "documentation": {}
+    },
+    {
+        "label": "ai_router",
+        "importPath": "app.api.v1.ai_routes",
+        "description": "app.api.v1.ai_routes",
+        "isExtraImport": true,
+        "detail": "app.api.v1.ai_routes",
+        "documentation": {}
+    },
+    {
+        "label": "order_router",
+        "importPath": "app.api.v1.order_routes",
+        "description": "app.api.v1.order_routes",
+        "isExtraImport": true,
+        "detail": "app.api.v1.order_routes",
+        "documentation": {}
+    },
+    {
+        "label": "UserResponse",
+        "importPath": "app.schemas.user",
+        "description": "app.schemas.user",
+        "isExtraImport": true,
+        "detail": "app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserUpdate",
+        "importPath": "app.schemas.user",
+        "description": "app.schemas.user",
+        "isExtraImport": true,
+        "detail": "app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserResponse",
+        "importPath": "app.schemas.user",
+        "description": "app.schemas.user",
+        "isExtraImport": true,
+        "detail": "app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserUpdate",
+        "importPath": "app.schemas.user",
+        "description": "app.schemas.user",
+        "isExtraImport": true,
+        "detail": "app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserService",
+        "importPath": "app.services.user_service",
+        "description": "app.services.user_service",
+        "isExtraImport": true,
+        "detail": "app.services.user_service",
+        "documentation": {}
+    },
+    {
+        "label": "lru_cache",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "BaseSettings",
+        "importPath": "pydantic_settings",
+        "description": "pydantic_settings",
+        "isExtraImport": true,
+        "detail": "pydantic_settings",
+        "documentation": {}
+    },
+    {
+        "label": "SettingsConfigDict",
+        "importPath": "pydantic_settings",
+        "description": "pydantic_settings",
+        "isExtraImport": true,
+        "detail": "pydantic_settings",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "pkgutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pkgutil",
+        "description": "pkgutil",
+        "detail": "pkgutil",
+        "documentation": {}
+    },
+    {
+        "label": "importlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "importlib",
+        "description": "importlib",
+        "detail": "importlib",
+        "documentation": {}
+    },
+    {
+        "label": "Tortoise",
+        "importPath": "tortoise",
+        "description": "tortoise",
+        "isExtraImport": true,
+        "detail": "tortoise",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "tortoise",
+        "description": "tortoise",
+        "isExtraImport": true,
+        "detail": "tortoise",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "tortoise",
+        "description": "tortoise",
+        "isExtraImport": true,
+        "detail": "tortoise",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "tortoise",
+        "description": "tortoise",
+        "isExtraImport": true,
+        "detail": "tortoise",
+        "documentation": {}
+    },
+    {
+        "label": "Tortoise",
+        "importPath": "tortoise",
+        "description": "tortoise",
+        "isExtraImport": true,
+        "detail": "tortoise",
+        "documentation": {}
+    },
+    {
+        "label": "Tortoise",
+        "importPath": "tortoise",
+        "description": "tortoise",
+        "isExtraImport": true,
+        "detail": "tortoise",
+        "documentation": {}
+    },
+    {
+        "label": "Tortoise",
+        "importPath": "tortoise",
+        "description": "tortoise",
+        "isExtraImport": true,
+        "detail": "tortoise",
+        "documentation": {}
+    },
+    {
+        "label": "Tortoise",
+        "importPath": "tortoise",
+        "description": "tortoise",
+        "isExtraImport": true,
+        "detail": "tortoise",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "tortoise",
+        "description": "tortoise",
+        "isExtraImport": true,
+        "detail": "tortoise",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "app.core.config",
+        "description": "app.core.config",
+        "isExtraImport": true,
+        "detail": "app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "app.core.config",
+        "description": "app.core.config",
+        "isExtraImport": true,
+        "detail": "app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "app.core.config",
+        "description": "app.core.config",
+        "isExtraImport": true,
+        "detail": "app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "app.core.config",
+        "description": "app.core.config",
+        "isExtraImport": true,
+        "detail": "app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "app.core.config",
+        "description": "app.core.config",
+        "isExtraImport": true,
+        "detail": "app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "app.core.config",
+        "description": "app.core.config",
+        "isExtraImport": true,
+        "detail": "app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "app.core.config",
+        "description": "app.core.config",
+        "isExtraImport": true,
+        "detail": "app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "app.core.config",
+        "description": "app.core.config",
+        "isExtraImport": true,
+        "detail": "app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "app.core.config",
+        "description": "app.core.config",
+        "isExtraImport": true,
+        "detail": "app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "app.core.config",
+        "description": "app.core.config",
+        "isExtraImport": true,
+        "detail": "app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPAuthorizationCredentials",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPBearer",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "UnauthorizedException",
+        "importPath": "app.core.exceptions",
+        "description": "app.core.exceptions",
+        "isExtraImport": true,
+        "detail": "app.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ForbiddenException",
+        "importPath": "app.core.exceptions",
+        "description": "app.core.exceptions",
+        "isExtraImport": true,
+        "detail": "app.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "AppException",
+        "importPath": "app.core.exceptions",
+        "description": "app.core.exceptions",
+        "isExtraImport": true,
+        "detail": "app.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ConflictException",
+        "importPath": "app.core.exceptions",
+        "description": "app.core.exceptions",
+        "isExtraImport": true,
+        "detail": "app.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "UnauthorizedException",
+        "importPath": "app.core.exceptions",
+        "description": "app.core.exceptions",
+        "isExtraImport": true,
+        "detail": "app.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "NotFoundException",
+        "importPath": "app.core.exceptions",
+        "description": "app.core.exceptions",
+        "isExtraImport": true,
+        "detail": "app.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "decode_token",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "isExtraImport": true,
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "isExtraImport": true,
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "create_refresh_token",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "isExtraImport": true,
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "decode_token",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "isExtraImport": true,
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "hash_password",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "isExtraImport": true,
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "verify_password",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "isExtraImport": true,
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "hash_password",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "isExtraImport": true,
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "hash_password",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "isExtraImport": true,
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "Limiter",
+        "importPath": "slowapi",
+        "description": "slowapi",
+        "isExtraImport": true,
+        "detail": "slowapi",
+        "documentation": {}
+    },
+    {
+        "label": "_rate_limit_exceeded_handler",
+        "importPath": "slowapi",
+        "description": "slowapi",
+        "isExtraImport": true,
+        "detail": "slowapi",
+        "documentation": {}
+    },
+    {
+        "label": "get_remote_address",
+        "importPath": "slowapi.util",
+        "description": "slowapi.util",
+        "isExtraImport": true,
+        "detail": "slowapi.util",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "structlog",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "structlog",
+        "description": "structlog",
+        "detail": "structlog",
+        "documentation": {}
+    },
+    {
+        "label": "StrEnum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "JWTError",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "bcrypt",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "bcrypt",
+        "description": "bcrypt",
+        "detail": "bcrypt",
+        "documentation": {}
+    },
+    {
+        "label": "asynccontextmanager",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
+        "label": "asynccontextmanager",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
+        "label": "asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "anthropic",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "anthropic",
+        "description": "anthropic",
+        "detail": "anthropic",
+        "documentation": {}
+    },
+    {
+        "label": "get_logger",
+        "importPath": "app.core.logging",
+        "description": "app.core.logging",
+        "isExtraImport": true,
+        "detail": "app.core.logging",
+        "documentation": {}
+    },
+    {
+        "label": "get_logger",
+        "importPath": "app.core.logging",
+        "description": "app.core.logging",
+        "isExtraImport": true,
+        "detail": "app.core.logging",
+        "documentation": {}
+    },
+    {
+        "label": "get_logger",
+        "importPath": "app.core.logging",
+        "description": "app.core.logging",
+        "isExtraImport": true,
+        "detail": "app.core.logging",
+        "documentation": {}
+    },
+    {
+        "label": "get_logger",
+        "importPath": "app.core.logging",
+        "description": "app.core.logging",
+        "isExtraImport": true,
+        "detail": "app.core.logging",
+        "documentation": {}
+    },
+    {
+        "label": "setup_logging",
+        "importPath": "app.core.logging",
+        "description": "app.core.logging",
+        "isExtraImport": true,
+        "detail": "app.core.logging",
+        "documentation": {}
+    },
+    {
+        "label": "Celery",
+        "importPath": "celery",
+        "description": "celery",
+        "isExtraImport": true,
+        "detail": "celery",
+        "documentation": {}
+    },
+    {
+        "label": "celery_app",
+        "importPath": "app.infrastructure.celery.app",
+        "description": "app.infrastructure.celery.app",
+        "isExtraImport": true,
+        "detail": "app.infrastructure.celery.app",
+        "documentation": {}
+    },
+    {
+        "label": "smtplib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "smtplib",
+        "description": "smtplib",
+        "detail": "smtplib",
+        "documentation": {}
+    },
+    {
+        "label": "MIMEMultipart",
+        "importPath": "email.mime.multipart",
+        "description": "email.mime.multipart",
+        "isExtraImport": true,
+        "detail": "email.mime.multipart",
+        "documentation": {}
+    },
+    {
+        "label": "MIMEText",
+        "importPath": "email.mime.text",
+        "description": "email.mime.text",
+        "isExtraImport": true,
+        "detail": "email.mime.text",
+        "documentation": {}
+    },
+    {
+        "label": "registraion_otp_send_eamil_delay",
+        "importPath": "app.infrastructure.celery.tasks",
+        "description": "app.infrastructure.celery.tasks",
+        "isExtraImport": true,
+        "detail": "app.infrastructure.celery.tasks",
+        "documentation": {}
+    },
+    {
+        "label": "send_otp_email",
+        "importPath": "app.infrastructure.celery.tasks",
+        "description": "app.infrastructure.celery.tasks",
+        "isExtraImport": true,
+        "detail": "app.infrastructure.celery.tasks",
+        "documentation": {}
+    },
+    {
+        "label": "redis.asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "redis.asyncio",
+        "description": "redis.asyncio",
+        "detail": "redis.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "post_form",
+        "importPath": "app.mcp.http",
+        "description": "app.mcp.http",
+        "isExtraImport": true,
+        "detail": "app.mcp.http",
+        "documentation": {}
+    },
+    {
+        "label": "post_json",
+        "importPath": "app.mcp.http",
+        "description": "app.mcp.http",
+        "isExtraImport": true,
+        "detail": "app.mcp.http",
+        "documentation": {}
+    },
+    {
+        "label": "get",
+        "importPath": "app.mcp.http",
+        "description": "app.mcp.http",
+        "isExtraImport": true,
+        "detail": "app.mcp.http",
+        "documentation": {}
+    },
+    {
+        "label": "post_json",
+        "importPath": "app.mcp.http",
+        "description": "app.mcp.http",
+        "isExtraImport": true,
+        "detail": "app.mcp.http",
+        "documentation": {}
+    },
+    {
+        "label": "patch_json",
+        "importPath": "app.mcp.http",
+        "description": "app.mcp.http",
+        "isExtraImport": true,
+        "detail": "app.mcp.http",
+        "documentation": {}
+    },
+    {
+        "label": "get",
+        "importPath": "app.mcp.http",
+        "description": "app.mcp.http",
+        "isExtraImport": true,
+        "detail": "app.mcp.http",
+        "documentation": {}
+    },
+    {
+        "label": "post_json",
+        "importPath": "app.mcp.http",
+        "description": "app.mcp.http",
+        "isExtraImport": true,
+        "detail": "app.mcp.http",
+        "documentation": {}
+    },
+    {
+        "label": "patch_json",
+        "importPath": "app.mcp.http",
+        "description": "app.mcp.http",
+        "isExtraImport": true,
+        "detail": "app.mcp.http",
+        "documentation": {}
+    },
+    {
+        "label": "delete",
+        "importPath": "app.mcp.http",
+        "description": "app.mcp.http",
+        "isExtraImport": true,
+        "detail": "app.mcp.http",
+        "documentation": {}
+    },
+    {
+        "label": "get",
+        "importPath": "app.mcp.http",
+        "description": "app.mcp.http",
+        "isExtraImport": true,
+        "detail": "app.mcp.http",
+        "documentation": {}
+    },
+    {
+        "label": "patch_json",
+        "importPath": "app.mcp.http",
+        "description": "app.mcp.http",
+        "isExtraImport": true,
+        "detail": "app.mcp.http",
+        "documentation": {}
+    },
+    {
+        "label": "delete",
+        "importPath": "app.mcp.http",
+        "description": "app.mcp.http",
+        "isExtraImport": true,
+        "detail": "app.mcp.http",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "httpx",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "httpx",
+        "description": "httpx",
+        "detail": "httpx",
+        "documentation": {}
+    },
+    {
+        "label": "FastMCP",
+        "importPath": "mcp.server.fastmcp",
+        "description": "mcp.server.fastmcp",
+        "isExtraImport": true,
+        "detail": "mcp.server.fastmcp",
+        "documentation": {}
+    },
+    {
+        "label": "FastMCP",
+        "importPath": "mcp.server.fastmcp",
+        "description": "mcp.server.fastmcp",
+        "isExtraImport": true,
+        "detail": "mcp.server.fastmcp",
+        "documentation": {}
+    },
+    {
+        "label": "register_auth_tools",
+        "importPath": "app.mcp.tools.auth",
+        "description": "app.mcp.tools.auth",
+        "isExtraImport": true,
+        "detail": "app.mcp.tools.auth",
+        "documentation": {}
+    },
+    {
+        "label": "register_catalog_tools",
+        "importPath": "app.mcp.tools.product",
+        "description": "app.mcp.tools.product",
+        "isExtraImport": true,
+        "detail": "app.mcp.tools.product",
+        "documentation": {}
+    },
+    {
+        "label": "register_order_tools",
+        "importPath": "app.mcp.tools.orders",
+        "description": "app.mcp.tools.orders",
+        "isExtraImport": true,
+        "detail": "app.mcp.tools.orders",
+        "documentation": {}
+    },
+    {
+        "label": "register_user_tools",
+        "importPath": "app.mcp.tools.users",
+        "description": "app.mcp.tools.users",
+        "isExtraImport": true,
+        "detail": "app.mcp.tools.users",
+        "documentation": {}
+    },
+    {
+        "label": "RequestValidationError",
+        "importPath": "fastapi.exceptions",
+        "description": "fastapi.exceptions",
+        "isExtraImport": true,
+        "detail": "fastapi.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "DoesNotExist",
+        "importPath": "tortoise.exceptions",
+        "description": "tortoise.exceptions",
+        "isExtraImport": true,
+        "detail": "tortoise.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "IntegrityError",
+        "importPath": "tortoise.exceptions",
+        "description": "tortoise.exceptions",
+        "isExtraImport": true,
+        "detail": "tortoise.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "BaseHTTPMiddleware",
+        "importPath": "starlette.middleware.base",
+        "description": "starlette.middleware.base",
+        "isExtraImport": true,
+        "detail": "starlette.middleware.base",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "starlette.requests",
+        "description": "starlette.requests",
+        "isExtraImport": true,
+        "detail": "starlette.requests",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "importPath": "app.modules.catalog.models",
+        "description": "app.modules.catalog.models",
+        "isExtraImport": true,
+        "detail": "app.modules.catalog.models",
+        "documentation": {}
+    },
+    {
+        "label": "Category",
+        "importPath": "app.modules.catalog.models",
+        "description": "app.modules.catalog.models",
+        "isExtraImport": true,
+        "detail": "app.modules.catalog.models",
+        "documentation": {}
+    },
+    {
+        "label": "Category",
+        "importPath": "app.modules.catalog.models",
+        "description": "app.modules.catalog.models",
+        "isExtraImport": true,
+        "detail": "app.modules.catalog.models",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "importPath": "app.modules.catalog.models",
+        "description": "app.modules.catalog.models",
+        "isExtraImport": true,
+        "detail": "app.modules.catalog.models",
+        "documentation": {}
+    },
+    {
+        "label": "ProductImage",
+        "importPath": "app.modules.catalog.models",
+        "description": "app.modules.catalog.models",
+        "isExtraImport": true,
+        "detail": "app.modules.catalog.models",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "importPath": "app.modules.catalog.models",
+        "description": "app.modules.catalog.models",
+        "isExtraImport": true,
+        "detail": "app.modules.catalog.models",
+        "documentation": {}
+    },
+    {
+        "label": "Category",
+        "importPath": "app.modules.catalog.models",
+        "description": "app.modules.catalog.models",
+        "isExtraImport": true,
+        "detail": "app.modules.catalog.models",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "importPath": "app.modules.catalog.models",
+        "description": "app.modules.catalog.models",
+        "isExtraImport": true,
+        "detail": "app.modules.catalog.models",
+        "documentation": {}
+    },
+    {
+        "label": "ProductImage",
+        "importPath": "app.modules.catalog.models",
+        "description": "app.modules.catalog.models",
+        "isExtraImport": true,
+        "detail": "app.modules.catalog.models",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "importPath": "app.modules.catalog.models",
+        "description": "app.modules.catalog.models",
+        "isExtraImport": true,
+        "detail": "app.modules.catalog.models",
+        "documentation": {}
+    },
+    {
+        "label": "Order",
+        "importPath": "app.modules.orders.models",
+        "description": "app.modules.orders.models",
+        "isExtraImport": true,
+        "detail": "app.modules.orders.models",
+        "documentation": {}
+    },
+    {
+        "label": "Order",
+        "importPath": "app.modules.orders.models",
+        "description": "app.modules.orders.models",
+        "isExtraImport": true,
+        "detail": "app.modules.orders.models",
+        "documentation": {}
+    },
+    {
+        "label": "OrderItem",
+        "importPath": "app.modules.orders.models",
+        "description": "app.modules.orders.models",
+        "isExtraImport": true,
+        "detail": "app.modules.orders.models",
+        "documentation": {}
+    },
+    {
+        "label": "OrderStatus",
+        "importPath": "app.modules.orders.models",
+        "description": "app.modules.orders.models",
+        "isExtraImport": true,
+        "detail": "app.modules.orders.models",
+        "documentation": {}
+    },
+    {
+        "label": "Order",
+        "importPath": "app.modules.orders.models",
+        "description": "app.modules.orders.models",
+        "isExtraImport": true,
+        "detail": "app.modules.orders.models",
+        "documentation": {}
+    },
+    {
+        "label": "OrderItem",
+        "importPath": "app.modules.orders.models",
+        "description": "app.modules.orders.models",
+        "isExtraImport": true,
+        "detail": "app.modules.orders.models",
+        "documentation": {}
+    },
+    {
+        "label": "OrderStatus",
+        "importPath": "app.modules.orders.models",
+        "description": "app.modules.orders.models",
+        "isExtraImport": true,
+        "detail": "app.modules.orders.models",
+        "documentation": {}
+    },
+    {
+        "label": "generate_with_tools",
+        "importPath": "app.infrastructure.ai.claude_client",
+        "description": "app.infrastructure.ai.claude_client",
+        "isExtraImport": true,
+        "detail": "app.infrastructure.ai.claude_client",
+        "documentation": {}
+    },
+    {
+        "label": "generate_response",
+        "importPath": "app.infrastructure.ai.claude_client",
+        "description": "app.infrastructure.ai.claude_client",
+        "isExtraImport": true,
+        "detail": "app.infrastructure.ai.claude_client",
+        "documentation": {}
+    },
+    {
+        "label": "registration_cache",
+        "importPath": "app.infrastructure.redis.client",
+        "description": "app.infrastructure.redis.client",
+        "isExtraImport": true,
+        "detail": "app.infrastructure.redis.client",
+        "documentation": {}
+    },
+    {
+        "label": "password_reset_cache",
+        "importPath": "app.infrastructure.redis.client",
+        "description": "app.infrastructure.redis.client",
+        "isExtraImport": true,
+        "detail": "app.infrastructure.redis.client",
+        "documentation": {}
+    },
+    {
+        "label": "token_blacklist_cache",
+        "importPath": "app.infrastructure.redis.client",
+        "description": "app.infrastructure.redis.client",
+        "isExtraImport": true,
+        "detail": "app.infrastructure.redis.client",
+        "documentation": {}
+    },
+    {
+        "label": "otp_cooldown_cache",
+        "importPath": "app.infrastructure.redis.client",
+        "description": "app.infrastructure.redis.client",
+        "isExtraImport": true,
+        "detail": "app.infrastructure.redis.client",
+        "documentation": {}
+    },
+    {
+        "label": "get_redis",
+        "importPath": "app.infrastructure.redis.client",
+        "description": "app.infrastructure.redis.client",
+        "isExtraImport": true,
+        "detail": "app.infrastructure.redis.client",
+        "documentation": {}
+    },
+    {
+        "label": "close_redis",
+        "importPath": "app.infrastructure.redis.client",
+        "description": "app.infrastructure.redis.client",
+        "isExtraImport": true,
+        "detail": "app.infrastructure.redis.client",
+        "documentation": {}
+    },
+    {
+        "label": "UserRepository",
+        "importPath": "app.modules.users.repository",
+        "description": "app.modules.users.repository",
+        "isExtraImport": true,
+        "detail": "app.modules.users.repository",
+        "documentation": {}
+    },
+    {
+        "label": "RoleEnum",
+        "importPath": "app.shared.enums.role_enum",
+        "description": "app.shared.enums.role_enum",
+        "isExtraImport": true,
+        "detail": "app.shared.enums.role_enum",
+        "documentation": {}
+    },
+    {
+        "label": "RoleEnum",
+        "importPath": "app.shared.enums.role_enum",
+        "description": "app.shared.enums.role_enum",
+        "isExtraImport": true,
+        "detail": "app.shared.enums.role_enum",
+        "documentation": {}
+    },
+    {
+        "label": "_MAX_OTP_ATTEMPTS",
+        "importPath": "app.shared.utils.constants",
+        "description": "app.shared.utils.constants",
+        "isExtraImport": true,
+        "detail": "app.shared.utils.constants",
+        "documentation": {}
+    },
+    {
+        "label": "OTPService",
+        "importPath": "app.shared.utils.otp_create",
+        "description": "app.shared.utils.otp_create",
+        "isExtraImport": true,
+        "detail": "app.shared.utils.otp_create",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "app.shared.base.base_model",
+        "description": "app.shared.base.base_model",
+        "isExtraImport": true,
+        "detail": "app.shared.base.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "app.shared.base.base_model",
+        "description": "app.shared.base.base_model",
+        "isExtraImport": true,
+        "detail": "app.shared.base.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "app.shared.base.base_model",
+        "description": "app.shared.base.base_model",
+        "isExtraImport": true,
+        "detail": "app.shared.base.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "BaseRepository",
+        "importPath": "app.shared.base.base_repository",
+        "description": "app.shared.base.base_repository",
+        "isExtraImport": true,
+        "detail": "app.shared.base.base_repository",
+        "documentation": {}
+    },
+    {
+        "label": "BaseRepository",
+        "importPath": "app.shared.base.base_repository",
+        "description": "app.shared.base.base_repository",
+        "isExtraImport": true,
+        "detail": "app.shared.base.base_repository",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryRepository",
+        "importPath": "app.modules.catalog.repository",
+        "description": "app.modules.catalog.repository",
+        "isExtraImport": true,
+        "detail": "app.modules.catalog.repository",
+        "documentation": {}
+    },
+    {
+        "label": "ProductRepository",
+        "importPath": "app.modules.catalog.repository",
+        "description": "app.modules.catalog.repository",
+        "isExtraImport": true,
+        "detail": "app.modules.catalog.repository",
+        "documentation": {}
+    },
+    {
+        "label": "ProductImageRepository",
+        "importPath": "app.modules.catalog.repository",
+        "description": "app.modules.catalog.repository",
+        "isExtraImport": true,
+        "detail": "app.modules.catalog.repository",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.modules.users.models",
+        "description": "app.modules.users.models",
+        "isExtraImport": true,
+        "detail": "app.modules.users.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.modules.users.models",
+        "description": "app.modules.users.models",
+        "isExtraImport": true,
+        "detail": "app.modules.users.models",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "UserRepository",
+        "importPath": "app.repositories.user_repository",
+        "description": "app.repositories.user_repository",
+        "isExtraImport": true,
+        "detail": "app.repositories.user_repository",
+        "documentation": {}
+    },
+    {
+        "label": "TORTOISE_ORM_CONFIG",
+        "importPath": "app.database.connection",
+        "description": "app.database.connection",
+        "isExtraImport": true,
+        "detail": "app.database.connection",
+        "documentation": {}
+    },
+    {
+        "label": "TORTOISE_ORM_CONFIG",
+        "importPath": "app.database.connection",
+        "description": "app.database.connection",
+        "isExtraImport": true,
+        "detail": "app.database.connection",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models.user",
+        "description": "app.models.user",
+        "isExtraImport": true,
+        "detail": "app.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "Category",
+        "importPath": "app.models.product",
+        "description": "app.models.product",
+        "isExtraImport": true,
+        "detail": "app.models.product",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "importPath": "app.models.product",
+        "description": "app.models.product",
+        "isExtraImport": true,
+        "detail": "app.models.product",
+        "documentation": {}
+    },
+    {
+        "label": "Order",
+        "importPath": "app.models.order",
+        "description": "app.models.order",
+        "isExtraImport": true,
+        "detail": "app.models.order",
+        "documentation": {}
+    },
+    {
+        "label": "OrderItem",
+        "importPath": "app.models.order",
+        "description": "app.models.order",
+        "isExtraImport": true,
+        "detail": "app.models.order",
+        "documentation": {}
+    },
+    {
+        "label": "OrderStatus",
+        "importPath": "app.models.order",
+        "description": "app.models.order",
+        "isExtraImport": true,
+        "detail": "app.models.order",
+        "documentation": {}
+    },
+    {
+        "label": "TORTOISE_ORM_CONFIG",
+        "importPath": "app.core.database",
+        "description": "app.core.database",
+        "isExtraImport": true,
+        "detail": "app.core.database",
+        "documentation": {}
+    },
+    {
+        "label": "TORTOISE_ORM_CONFIG",
+        "importPath": "app.core.database",
+        "description": "app.core.database",
+        "isExtraImport": true,
+        "detail": "app.core.database",
+        "documentation": {}
+    },
+    {
+        "label": "close_db",
+        "importPath": "app.core.database",
+        "description": "app.core.database",
+        "isExtraImport": true,
+        "detail": "app.core.database",
+        "documentation": {}
+    },
+    {
+        "label": "init_db",
+        "importPath": "app.core.database",
+        "description": "app.core.database",
+        "isExtraImport": true,
+        "detail": "app.core.database",
+        "documentation": {}
+    },
+    {
+        "label": "Model",
+        "importPath": "tortoise.models",
+        "description": "tortoise.models",
+        "isExtraImport": true,
+        "detail": "tortoise.models",
+        "documentation": {}
+    },
+    {
+        "label": "Model",
+        "importPath": "tortoise.models",
+        "description": "tortoise.models",
+        "isExtraImport": true,
+        "detail": "tortoise.models",
+        "documentation": {}
+    },
+    {
+        "label": "secrets",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "secrets",
+        "description": "secrets",
+        "detail": "secrets",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "RateLimitExceeded",
+        "importPath": "slowapi.errors",
+        "description": "slowapi.errors",
+        "isExtraImport": true,
+        "detail": "slowapi.errors",
+        "documentation": {}
+    },
+    {
+        "label": "api_v1_router",
+        "importPath": "app.api.v1.router",
+        "description": "app.api.v1.router",
+        "isExtraImport": true,
+        "detail": "app.api.v1.router",
+        "documentation": {}
+    },
+    {
+        "label": "register_exception_handlers",
+        "importPath": "app.middleware.exception_handler",
+        "description": "app.middleware.exception_handler",
+        "isExtraImport": true,
+        "detail": "app.middleware.exception_handler",
+        "documentation": {}
+    },
+    {
+        "label": "RequestLoggingMiddleware",
+        "importPath": "app.middleware.request_logging",
+        "description": "app.middleware.request_logging",
+        "isExtraImport": true,
+        "detail": "app.middleware.request_logging",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "ClientSession",
+        "importPath": "mcp",
+        "description": "mcp",
+        "isExtraImport": true,
+        "detail": "mcp",
+        "documentation": {}
+    },
+    {
+        "label": "StdioServerParameters",
+        "importPath": "mcp",
+        "description": "mcp",
+        "isExtraImport": true,
+        "detail": "mcp",
+        "documentation": {}
+    },
+    {
+        "label": "stdio_client",
+        "importPath": "mcp.client.stdio",
+        "description": "mcp.client.stdio",
+        "isExtraImport": true,
+        "detail": "mcp.client.stdio",
+        "documentation": {}
+    },
+    {
+        "label": "google.generativeai",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "google.generativeai",
+        "description": "google.generativeai",
+        "detail": "google.generativeai",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "kind": 6,
+        "importPath": "app.api.v1.ai_routes",
+        "description": "app.api.v1.ai_routes",
+        "peekOfCode": "class Message(BaseModel):\n    role: str\n    content: str\nclass AskRequest(BaseModel):\n    question: str\n    category: Optional[str] = None\n    history: list[Message] = []\nclass AskResponse(BaseModel):\n    answer: str\n    history: list[Message]",
+        "detail": "app.api.v1.ai_routes",
+        "documentation": {}
+    },
+    {
+        "label": "AskRequest",
+        "kind": 6,
+        "importPath": "app.api.v1.ai_routes",
+        "description": "app.api.v1.ai_routes",
+        "peekOfCode": "class AskRequest(BaseModel):\n    question: str\n    category: Optional[str] = None\n    history: list[Message] = []\nclass AskResponse(BaseModel):\n    answer: str\n    history: list[Message]\n@ai_router.post(\n    \"/ask/\",\n    response_model=SuccessResponse[AskResponse],",
+        "detail": "app.api.v1.ai_routes",
+        "documentation": {}
+    },
+    {
+        "label": "AskResponse",
+        "kind": 6,
+        "importPath": "app.api.v1.ai_routes",
+        "description": "app.api.v1.ai_routes",
+        "peekOfCode": "class AskResponse(BaseModel):\n    answer: str\n    history: list[Message]\n@ai_router.post(\n    \"/ask/\",\n    response_model=SuccessResponse[AskResponse],\n    summary=\"Chat with AI assistant\",\n    description=\"Ask about products, place orders, or cancel orders. Login required for order actions. Pass returned `history` for follow-up questions.\",\n)\n@limiter.limit(\"20/minute\")",
+        "detail": "app.api.v1.ai_routes",
+        "documentation": {}
+    },
+    {
+        "label": "ai_router",
+        "kind": 5,
+        "importPath": "app.api.v1.ai_routes",
+        "description": "app.api.v1.ai_routes",
+        "peekOfCode": "ai_router = APIRouter()\nclass Message(BaseModel):\n    role: str\n    content: str\nclass AskRequest(BaseModel):\n    question: str\n    category: Optional[str] = None\n    history: list[Message] = []\nclass AskResponse(BaseModel):\n    answer: str",
+        "detail": "app.api.v1.ai_routes",
+        "documentation": {}
+    },
+    {
+        "label": "auth_router",
+        "kind": 5,
+        "importPath": "app.api.v1.auth_routes",
+        "description": "app.api.v1.auth_routes",
+        "peekOfCode": "auth_router = APIRouter()\n# ──────────────────────────────────────────────\n# Registration Flow\n# ──────────────────────────────────────────────\n@auth_router.post(\n    \"/user/register/\",\n    response_model=SuccessResponse,\n    summary=\"Step 1 — Register and receive OTP\",\n    description=\"Validates user data and sends a 6-digit OTP to the provided email. OTP expires in 5 minutes.\",\n)",
+        "detail": "app.api.v1.auth_routes",
+        "documentation": {}
+    },
+    {
+        "label": "catalog_router",
+        "kind": 5,
+        "importPath": "app.api.v1.catalog_routes",
+        "description": "app.api.v1.catalog_routes",
+        "peekOfCode": "catalog_router = APIRouter()\n# ── Categories ─────────────────────────────────────────────────────────────────\n@catalog_router.get(\"/categories/\", response_model=SuccessResponse[List[CategoryResponse]])\nasync def list_categories():\n    data = await CategoryService.list()\n    return SuccessResponse(data=data)\n@catalog_router.get(\"/categories/{category_id}/\", response_model=SuccessResponse[CategoryResponse])\nasync def get_category(category_id: UUID):\n    return SuccessResponse(data=await CategoryService.get(category_id))\n@catalog_router.post(\"/categories/\", response_model=SuccessResponse[CategoryResponse], status_code=201)",
+        "detail": "app.api.v1.catalog_routes",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.api.v1.chatbot_routes",
+        "description": "app.api.v1.chatbot_routes",
+        "peekOfCode": "router = APIRouter(prefix=\"/chatbot\", tags=[\"AI Chatbot\"])\n@router.post(\"/chat\", response_model=SuccessResponse[ChatResponse])\nasync def chat(data: ChatRequest, current_user=Depends(get_current_user)):\n    reply = await handle_chat(current_user, data.message)\n    return SuccessResponse(data=ChatResponse(reply=reply))",
+        "detail": "app.api.v1.chatbot_routes",
+        "documentation": {}
+    },
+    {
+        "label": "order_router",
+        "kind": 5,
+        "importPath": "app.api.v1.order_routes",
+        "description": "app.api.v1.order_routes",
+        "peekOfCode": "order_router = APIRouter()\n@order_router.post(\"/\", response_model=SuccessResponse[OrderResponse], status_code=201)\nasync def create_order(data: OrderCreate, current_user=Depends(get_current_user)):\n    order = await OrderService.create(current_user, data)\n    return SuccessResponse(message=\"Order placed successfully\", data=order)\n@order_router.get(\"/me/\", response_model=PaginatedResponse[OrderResponse])\nasync def my_orders(\n    page: int = Query(1, ge=1),\n    page_size: int = Query(20, ge=1, le=100),\n    current_user=Depends(get_current_user),",
+        "detail": "app.api.v1.order_routes",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.api.v1.product_routes",
+        "description": "app.api.v1.product_routes",
+        "peekOfCode": "router = APIRouter(prefix=\"/products\", tags=[\"Products\"])\n@router.get(\"\", response_model=PaginatedResponse[ProductResponse])\nasync def list_products(\n    page: int = Query(1, ge=1),\n    page_size: int = Query(20, ge=1, le=100),\n    search: Optional[str] = Query(None),\n    category_id: Optional[uuid.UUID] = Query(None),\n    min_price: Optional[Decimal] = Query(None),\n    max_price: Optional[Decimal] = Query(None),\n    in_stock: Optional[bool] = Query(None),",
+        "detail": "app.api.v1.product_routes",
+        "documentation": {}
+    },
+    {
+        "label": "api_v1_router",
+        "kind": 5,
+        "importPath": "app.api.v1.router",
+        "description": "app.api.v1.router",
+        "peekOfCode": "api_v1_router = APIRouter()\napi_v1_router.include_router(auth_router, prefix=\"/auth\", tags=[\"Authentication\"])\napi_v1_router.include_router(catalog_router, prefix=\"/catalog\", tags=[\"Catalog\"])\napi_v1_router.include_router(order_router, prefix=\"/orders\", tags=[\"Orders\"])\napi_v1_router.include_router(ai_router, prefix=\"/ai\", tags=[\"AI\"])",
+        "detail": "app.api.v1.router",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.api.v1.user_routes",
+        "description": "app.api.v1.user_routes",
+        "peekOfCode": "router = APIRouter(prefix=\"/users\", tags=[\"Users\"])\n@router.get(\"/me\", response_model=SuccessResponse[UserResponse])\nasync def get_me(current_user=Depends(get_current_user)):\n    return SuccessResponse(data=UserResponse.model_validate(current_user))\n@router.patch(\"/me\", response_model=SuccessResponse[UserResponse])\nasync def update_me(data: UserUpdate, current_user=Depends(get_current_user)):\n    user = await UserService.update(str(current_user.id), data)\n    return SuccessResponse(message=\"Profile updated\", data=user)\n@router.get(\"/{user_id}\", response_model=SuccessResponse[UserResponse], dependencies=[Depends(require_admin)])\nasync def get_user(user_id: str):",
+        "detail": "app.api.v1.user_routes",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "kind": 6,
+        "importPath": "app.core.config",
+        "description": "app.core.config",
+        "peekOfCode": "class Settings(BaseSettings):\n    model_config = SettingsConfigDict(\n        env_file=\".env\", env_file_encoding=\"utf-8\", case_sensitive=False, extra=\"ignore\"\n    )\n    # Application\n    app_name: str = \"E-Commerce Platform\"\n    app_env: str = \"development\"\n    app_debug: bool = False\n    app_host: str = \"0.0.0.0\"\n    app_port: int = 8000",
+        "detail": "app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_settings",
+        "kind": 2,
+        "importPath": "app.core.config",
+        "description": "app.core.config",
+        "peekOfCode": "def get_settings() -> Settings:\n    return Settings()\nsettings = get_settings()",
+        "detail": "app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": "app.core.config",
+        "description": "app.core.config",
+        "peekOfCode": "settings = get_settings()",
+        "detail": "app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "discover_models",
+        "kind": 2,
+        "importPath": "app.core.database",
+        "description": "app.core.database",
+        "peekOfCode": "def discover_models() -> list[str]:\n    import app.modules as modules_pkg\n    found = [\"aerich.models\"]\n    for _, module_name, _ in pkgutil.iter_modules(modules_pkg.__path__):\n        module_path = f\"app.modules.{module_name}.models\"\n        try:\n            importlib.import_module(module_path)\n            found.append(module_path)\n        except ModuleNotFoundError:\n            pass",
+        "detail": "app.core.database",
+        "documentation": {}
+    },
+    {
+        "label": "TORTOISE_ORM_CONFIG",
+        "kind": 5,
+        "importPath": "app.core.database",
+        "description": "app.core.database",
+        "peekOfCode": "TORTOISE_ORM_CONFIG = {\n    \"connections\": {\n        \"default\": {\n            \"engine\": \"tortoise.backends.asyncpg\",\n            \"credentials\": {\n                \"host\": settings.db_host,\n                \"port\": settings.db_port,\n                \"user\": settings.db_user,\n                \"password\": settings.db_password,\n                \"database\": settings.db_name,",
+        "detail": "app.core.database",
+        "documentation": {}
+    },
+    {
+        "label": "get_pagination",
+        "kind": 2,
+        "importPath": "app.core.dependencies",
+        "description": "app.core.dependencies",
+        "peekOfCode": "def get_pagination(\n    page: int = Query(1, ge=1, description=\"Page number\"),\n    page_size: int = Query(\n        settings.default_page_size,\n        ge=1,\n        le=settings.max_page_size,\n        description=\"Items per page\",\n    ),\n    search: str | None = Query(None, description=\"Search keyword\"),\n    sort_by: str | None = Query(None, description=\"Field to sort by\"),",
+        "detail": "app.core.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "bearer_scheme",
+        "kind": 5,
+        "importPath": "app.core.dependencies",
+        "description": "app.core.dependencies",
+        "peekOfCode": "bearer_scheme = HTTPBearer(auto_error=False)\n# ─────────────────────────────────────────────\n# 1. AUTH — current logged-in user\n# ─────────────────────────────────────────────\nasync def get_current_user(\n    credentials: HTTPAuthorizationCredentials | None = Depends(bearer_scheme),\n):\n    \"\"\"\n    Protected route dependency.\n    Usage: user = Depends(get_current_user)",
+        "detail": "app.core.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "AppException",
+        "kind": 6,
+        "importPath": "app.core.exceptions",
+        "description": "app.core.exceptions",
+        "peekOfCode": "class AppException(HTTPException):\n    def __init__(self, status_code: int, detail: str):\n        super().__init__(status_code=status_code, detail=detail)\nclass NotFoundException(AppException):\n    def __init__(self, detail: str = \"Resource not found\"):\n        super().__init__(status.HTTP_404_NOT_FOUND, detail)\nclass UnauthorizedException(AppException):\n    def __init__(self, detail: str = \"Unauthorized\"):\n        super().__init__(status.HTTP_401_UNAUTHORIZED, detail)\nclass ForbiddenException(AppException):",
+        "detail": "app.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "NotFoundException",
+        "kind": 6,
+        "importPath": "app.core.exceptions",
+        "description": "app.core.exceptions",
+        "peekOfCode": "class NotFoundException(AppException):\n    def __init__(self, detail: str = \"Resource not found\"):\n        super().__init__(status.HTTP_404_NOT_FOUND, detail)\nclass UnauthorizedException(AppException):\n    def __init__(self, detail: str = \"Unauthorized\"):\n        super().__init__(status.HTTP_401_UNAUTHORIZED, detail)\nclass ForbiddenException(AppException):\n    def __init__(self, detail: str = \"Forbidden\"):\n        super().__init__(status.HTTP_403_FORBIDDEN, detail)\nclass ConflictException(AppException):",
+        "detail": "app.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "UnauthorizedException",
+        "kind": 6,
+        "importPath": "app.core.exceptions",
+        "description": "app.core.exceptions",
+        "peekOfCode": "class UnauthorizedException(AppException):\n    def __init__(self, detail: str = \"Unauthorized\"):\n        super().__init__(status.HTTP_401_UNAUTHORIZED, detail)\nclass ForbiddenException(AppException):\n    def __init__(self, detail: str = \"Forbidden\"):\n        super().__init__(status.HTTP_403_FORBIDDEN, detail)\nclass ConflictException(AppException):\n    def __init__(self, detail: str = \"Conflict\"):\n        super().__init__(status.HTTP_409_CONFLICT, detail)\nclass BadRequestException(AppException):",
+        "detail": "app.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ForbiddenException",
+        "kind": 6,
+        "importPath": "app.core.exceptions",
+        "description": "app.core.exceptions",
+        "peekOfCode": "class ForbiddenException(AppException):\n    def __init__(self, detail: str = \"Forbidden\"):\n        super().__init__(status.HTTP_403_FORBIDDEN, detail)\nclass ConflictException(AppException):\n    def __init__(self, detail: str = \"Conflict\"):\n        super().__init__(status.HTTP_409_CONFLICT, detail)\nclass BadRequestException(AppException):\n    def __init__(self, detail: str = \"Bad request\"):\n        super().__init__(status.HTTP_400_BAD_REQUEST, detail)\nclass InsufficientStockException(BadRequestException):",
+        "detail": "app.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ConflictException",
+        "kind": 6,
+        "importPath": "app.core.exceptions",
+        "description": "app.core.exceptions",
+        "peekOfCode": "class ConflictException(AppException):\n    def __init__(self, detail: str = \"Conflict\"):\n        super().__init__(status.HTTP_409_CONFLICT, detail)\nclass BadRequestException(AppException):\n    def __init__(self, detail: str = \"Bad request\"):\n        super().__init__(status.HTTP_400_BAD_REQUEST, detail)\nclass InsufficientStockException(BadRequestException):\n    def __init__(self, product_name: str, available: int):\n        super().__init__(f\"Insufficient stock for '{product_name}'. Available: {available}\")",
+        "detail": "app.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "BadRequestException",
+        "kind": 6,
+        "importPath": "app.core.exceptions",
+        "description": "app.core.exceptions",
+        "peekOfCode": "class BadRequestException(AppException):\n    def __init__(self, detail: str = \"Bad request\"):\n        super().__init__(status.HTTP_400_BAD_REQUEST, detail)\nclass InsufficientStockException(BadRequestException):\n    def __init__(self, product_name: str, available: int):\n        super().__init__(f\"Insufficient stock for '{product_name}'. Available: {available}\")",
+        "detail": "app.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "InsufficientStockException",
+        "kind": 6,
+        "importPath": "app.core.exceptions",
+        "description": "app.core.exceptions",
+        "peekOfCode": "class InsufficientStockException(BadRequestException):\n    def __init__(self, product_name: str, available: int):\n        super().__init__(f\"Insufficient stock for '{product_name}'. Available: {available}\")",
+        "detail": "app.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "limiter",
+        "kind": 5,
+        "importPath": "app.core.limiter",
+        "description": "app.core.limiter",
+        "peekOfCode": "limiter = Limiter(\n    key_func=get_remote_address,\n    default_limits=[f\"{settings.rate_limit_per_minute}/minute\"],\n    storage_uri=settings.redis_url,\n)",
+        "detail": "app.core.limiter",
+        "documentation": {}
+    },
+    {
+        "label": "setup_logging",
+        "kind": 2,
+        "importPath": "app.core.logging",
+        "description": "app.core.logging",
+        "peekOfCode": "def setup_logging() -> None:\n    log_level = logging.DEBUG if settings.app_debug else logging.INFO\n    shared_processors = [\n        structlog.contextvars.merge_contextvars,\n        structlog.stdlib.add_logger_name,\n        structlog.stdlib.add_log_level,\n        structlog.processors.TimeStamper(fmt=\"iso\"),\n        structlog.processors.StackInfoRenderer(),\n    ]\n    if settings.is_production:",
+        "detail": "app.core.logging",
+        "documentation": {}
+    },
+    {
+        "label": "get_logger",
+        "kind": 2,
+        "importPath": "app.core.logging",
+        "description": "app.core.logging",
+        "peekOfCode": "def get_logger(name: str = __name__):\n    return structlog.get_logger(name)",
+        "detail": "app.core.logging",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "kind": 6,
+        "importPath": "app.core.permissions",
+        "description": "app.core.permissions",
+        "peekOfCode": "class Role(StrEnum):\n    ADMIN = \"admin\"\n    CUSTOMER = \"customer\"\ndef require_roles(*roles: Role):\n    \"\"\"Dependency factory — raises 403 if current user lacks required role.\"\"\"\n    async def _check(current_user=Depends(get_current_user)):\n        if current_user.role not in [r.value for r in roles]:\n            raise HTTPException(\n                status_code=status.HTTP_403_FORBIDDEN,\n                detail=\"Insufficient permissions\",",
+        "detail": "app.core.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "require_roles",
+        "kind": 2,
+        "importPath": "app.core.permissions",
+        "description": "app.core.permissions",
+        "peekOfCode": "def require_roles(*roles: Role):\n    \"\"\"Dependency factory — raises 403 if current user lacks required role.\"\"\"\n    async def _check(current_user=Depends(get_current_user)):\n        if current_user.role not in [r.value for r in roles]:\n            raise HTTPException(\n                status_code=status.HTTP_403_FORBIDDEN,\n                detail=\"Insufficient permissions\",\n            )\n        return current_user\n    return _check",
+        "detail": "app.core.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "require_admin",
+        "kind": 5,
+        "importPath": "app.core.permissions",
+        "description": "app.core.permissions",
+        "peekOfCode": "require_admin = require_roles(Role.ADMIN)\nrequire_customer = require_roles(Role.CUSTOMER, Role.ADMIN)",
+        "detail": "app.core.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "require_customer",
+        "kind": 5,
+        "importPath": "app.core.permissions",
+        "description": "app.core.permissions",
+        "peekOfCode": "require_customer = require_roles(Role.CUSTOMER, Role.ADMIN)",
+        "detail": "app.core.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "hash_password",
+        "kind": 2,
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "peekOfCode": "def hash_password(password: str) -> str:\n    return bcrypt.hashpw(password.encode(), bcrypt.gensalt()).decode()\ndef verify_password(plain: str, hashed: str) -> bool:\n    return bcrypt.checkpw(plain.encode(), hashed.encode())\ndef _create_token(subject: Any, token_type: str, expire_delta: timedelta) -> str:\n    expire = datetime.now(timezone.utc) + expire_delta\n    payload = {\n        \"sub\": str(subject),\n        \"type\": token_type,\n        \"exp\": expire,",
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "verify_password",
+        "kind": 2,
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "peekOfCode": "def verify_password(plain: str, hashed: str) -> bool:\n    return bcrypt.checkpw(plain.encode(), hashed.encode())\ndef _create_token(subject: Any, token_type: str, expire_delta: timedelta) -> str:\n    expire = datetime.now(timezone.utc) + expire_delta\n    payload = {\n        \"sub\": str(subject),\n        \"type\": token_type,\n        \"exp\": expire,\n        \"iat\": datetime.now(timezone.utc),\n    }",
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "kind": 2,
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "peekOfCode": "def create_access_token(user_id: str) -> str:\n    return _create_token(\n        user_id,\n        \"access\",\n        timedelta(minutes=settings.jwt_access_token_expire_minutes),\n    )\ndef create_refresh_token(user_id: str) -> str:\n    return _create_token(\n        user_id,\n        \"refresh\",",
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "create_refresh_token",
+        "kind": 2,
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "peekOfCode": "def create_refresh_token(user_id: str) -> str:\n    return _create_token(\n        user_id,\n        \"refresh\",\n        timedelta(days=settings.jwt_refresh_token_expire_days),\n    )\ndef decode_token(token: str) -> dict:\n    try:\n        return jwt.decode(token, settings.app_secret_key, algorithms=[settings.jwt_algorithm])\n    except JWTError as e:",
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "decode_token",
+        "kind": 2,
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "peekOfCode": "def decode_token(token: str) -> dict:\n    try:\n        return jwt.decode(token, settings.app_secret_key, algorithms=[settings.jwt_algorithm])\n    except JWTError as e:\n        raise ValueError(f\"Invalid token: {e}\") from e",
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "get_claude_client",
+        "kind": 2,
+        "importPath": "app.infrastructure.ai.claude_client",
+        "description": "app.infrastructure.ai.claude_client",
+        "peekOfCode": "def get_claude_client() -> anthropic.Anthropic:\n    global _client\n    if _client is None:\n        _client = anthropic.Anthropic(api_key=settings.claude_api_key)\n    return _client\nasync def generate_response(prompt: str, history: list[dict] | None = None, system: str | None = None) -> str:\n    try:\n        client = get_claude_client()\n        messages = list(history or [])\n        messages.append({\"role\": \"user\", \"content\": prompt})",
+        "detail": "app.infrastructure.ai.claude_client",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "app.infrastructure.ai.claude_client",
+        "description": "app.infrastructure.ai.claude_client",
+        "peekOfCode": "logger = get_logger(__name__)\n_client: anthropic.Anthropic | None = None\ndef get_claude_client() -> anthropic.Anthropic:\n    global _client\n    if _client is None:\n        _client = anthropic.Anthropic(api_key=settings.claude_api_key)\n    return _client\nasync def generate_response(prompt: str, history: list[dict] | None = None, system: str | None = None) -> str:\n    try:\n        client = get_claude_client()",
+        "detail": "app.infrastructure.ai.claude_client",
+        "documentation": {}
+    },
+    {
+        "label": "celery_app",
+        "kind": 5,
+        "importPath": "app.infrastructure.celery.app",
+        "description": "app.infrastructure.celery.app",
+        "peekOfCode": "celery_app = Celery(\n    \"ecommerce\",\n    broker=settings.rabbitmq_url,\n    backend=settings.redis_url,\n    include=[\"app.infrastructure.celery.tasks\"],\n)\ncelery_app.conf.update(\n    task_serializer=\"json\",\n    accept_content=[\"json\"],\n    result_serializer=\"json\",",
+        "detail": "app.infrastructure.celery.app",
+        "documentation": {}
+    },
+    {
+        "label": "send_otp_email",
+        "kind": 2,
+        "importPath": "app.infrastructure.celery.tasks",
+        "description": "app.infrastructure.celery.tasks",
+        "peekOfCode": "def send_otp_email(email: str, otp: str) -> None:\n    logger.info(\"sending_otp_email\", email=email)\n    msg = MIMEMultipart(\"alternative\")\n    msg[\"Subject\"] = f\"{settings.app_name} — Your OTP Code\"\n    msg[\"From\"] = settings.smtp_from\n    msg[\"To\"] = email\n    # plain text fallback for email clients that don't support HTML\n    plain = MIMEText(f\"Your OTP is: {otp}. Valid for 5 minutes. Do not share it.\", \"plain\")\n    html = MIMEText(_build_otp_html(otp, settings.app_name), \"html\")\n    msg.attach(plain)",
+        "detail": "app.infrastructure.celery.tasks",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "app.infrastructure.celery.tasks",
+        "description": "app.infrastructure.celery.tasks",
+        "peekOfCode": "logger = get_logger(__name__)\ndef _build_otp_html(otp: str, app_name: str) -> str:\n    return f\"\"\"\n    <!DOCTYPE html>\n    <html>\n    <head>\n        <meta charset=\"UTF-8\">\n        <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    </head>\n    <body style=\"margin:0;padding:0;background-color:#f4f4f4;font-family:Arial,sans-serif;\">",
+        "detail": "app.infrastructure.celery.tasks",
+        "documentation": {}
+    },
+    {
+        "label": "EmailServices",
+        "kind": 6,
+        "importPath": "app.infrastructure.email.mailer",
+        "description": "app.infrastructure.email.mailer",
+        "peekOfCode": "class EmailServices:\n    @staticmethod\n    def registration_otp_send_email(email,otp):\n        registraion_otp_send_eamil_delay.delay(email,otp)",
+        "detail": "app.infrastructure.email.mailer",
+        "documentation": {}
+    },
+    {
+        "label": "CacheClient",
+        "kind": 6,
+        "importPath": "app.infrastructure.redis.client",
+        "description": "app.infrastructure.redis.client",
+        "peekOfCode": "class CacheClient:\n    def __init__(self, prefix: str = \"\", ttl: int = settings.redis_ttl):\n        self.prefix = prefix\n        self.ttl = ttl\n    def _key(self, key: str) -> str:\n        return f\"{self.prefix}:{key}\" if self.prefix else key\n    async def get(self, key: str) -> Optional[Any]:\n        try:\n            redis = await get_redis()\n            value = await redis.get(self._key(key))",
+        "detail": "app.infrastructure.redis.client",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "app.infrastructure.redis.client",
+        "description": "app.infrastructure.redis.client",
+        "peekOfCode": "logger = get_logger(__name__)\n_redis_pool: Optional[aioredis.Redis] = None\nasync def get_redis() -> aioredis.Redis:\n    global _redis_pool\n    if _redis_pool is None:\n        _redis_pool = aioredis.from_url(\n            settings.redis_url,\n            encoding=\"utf-8\",\n            decode_responses=True,\n            max_connections=20,",
+        "detail": "app.infrastructure.redis.client",
+        "documentation": {}
+    },
+    {
+        "label": "registration_cache",
+        "kind": 5,
+        "importPath": "app.infrastructure.redis.client",
+        "description": "app.infrastructure.redis.client",
+        "peekOfCode": "registration_cache = CacheClient(prefix=\"registration\", ttl=settings.redis_ttl_small)\npassword_reset_cache = CacheClient(prefix=\"password_reset\", ttl=settings.redis_ttl_small)\ntoken_blacklist_cache = CacheClient(prefix=\"blacklist\", ttl=settings.redis_ttl)\notp_cooldown_cache = CacheClient(prefix=\"otp_cooldown\", ttl=60)  # 60 second cooldown\nproduct_cache = CacheClient(prefix=\"product\", ttl=settings.redis_ttl)\ncategory_cache = CacheClient(prefix=\"category\", ttl=settings.redis_ttl)",
+        "detail": "app.infrastructure.redis.client",
+        "documentation": {}
+    },
+    {
+        "label": "password_reset_cache",
+        "kind": 5,
+        "importPath": "app.infrastructure.redis.client",
+        "description": "app.infrastructure.redis.client",
+        "peekOfCode": "password_reset_cache = CacheClient(prefix=\"password_reset\", ttl=settings.redis_ttl_small)\ntoken_blacklist_cache = CacheClient(prefix=\"blacklist\", ttl=settings.redis_ttl)\notp_cooldown_cache = CacheClient(prefix=\"otp_cooldown\", ttl=60)  # 60 second cooldown\nproduct_cache = CacheClient(prefix=\"product\", ttl=settings.redis_ttl)\ncategory_cache = CacheClient(prefix=\"category\", ttl=settings.redis_ttl)",
+        "detail": "app.infrastructure.redis.client",
+        "documentation": {}
+    },
+    {
+        "label": "token_blacklist_cache",
+        "kind": 5,
+        "importPath": "app.infrastructure.redis.client",
+        "description": "app.infrastructure.redis.client",
+        "peekOfCode": "token_blacklist_cache = CacheClient(prefix=\"blacklist\", ttl=settings.redis_ttl)\notp_cooldown_cache = CacheClient(prefix=\"otp_cooldown\", ttl=60)  # 60 second cooldown\nproduct_cache = CacheClient(prefix=\"product\", ttl=settings.redis_ttl)\ncategory_cache = CacheClient(prefix=\"category\", ttl=settings.redis_ttl)",
+        "detail": "app.infrastructure.redis.client",
+        "documentation": {}
+    },
+    {
+        "label": "otp_cooldown_cache",
+        "kind": 5,
+        "importPath": "app.infrastructure.redis.client",
+        "description": "app.infrastructure.redis.client",
+        "peekOfCode": "otp_cooldown_cache = CacheClient(prefix=\"otp_cooldown\", ttl=60)  # 60 second cooldown\nproduct_cache = CacheClient(prefix=\"product\", ttl=settings.redis_ttl)\ncategory_cache = CacheClient(prefix=\"category\", ttl=settings.redis_ttl)",
+        "detail": "app.infrastructure.redis.client",
+        "documentation": {}
+    },
+    {
+        "label": "product_cache",
+        "kind": 5,
+        "importPath": "app.infrastructure.redis.client",
+        "description": "app.infrastructure.redis.client",
+        "peekOfCode": "product_cache = CacheClient(prefix=\"product\", ttl=settings.redis_ttl)\ncategory_cache = CacheClient(prefix=\"category\", ttl=settings.redis_ttl)",
+        "detail": "app.infrastructure.redis.client",
+        "documentation": {}
+    },
+    {
+        "label": "category_cache",
+        "kind": 5,
+        "importPath": "app.infrastructure.redis.client",
+        "description": "app.infrastructure.redis.client",
+        "peekOfCode": "category_cache = CacheClient(prefix=\"category\", ttl=settings.redis_ttl)",
+        "detail": "app.infrastructure.redis.client",
+        "documentation": {}
+    },
+    {
+        "label": "register_auth_tools",
+        "kind": 2,
+        "importPath": "app.mcp.tools.auth",
+        "description": "app.mcp.tools.auth",
+        "peekOfCode": "def register_auth_tools(mcp):\n    @mcp.tool()\n    async def auth_register(first_name: str, last_name: str, email: str, password: str, confirm_password: str) -> dict:\n        \"\"\"Register a new user. Sends a 6-digit OTP to the email. OTP expires in 5 minutes.\"\"\"\n        return await post_form(\"/api/v1/auth/user/register/\", {\n            \"first_name\": first_name, \"last_name\": last_name,\n            \"email\": email, \"password\": password, \"confirm_password\": confirm_password,\n        })\n    @mcp.tool()\n    async def auth_verify_otp(email: str, otp: str) -> dict:",
+        "detail": "app.mcp.tools.auth",
+        "documentation": {}
+    },
+    {
+        "label": "register_order_tools",
+        "kind": 2,
+        "importPath": "app.mcp.tools.orders",
+        "description": "app.mcp.tools.orders",
+        "peekOfCode": "def register_order_tools(mcp):\n    @mcp.tool()\n    async def order_create(access_token: str, shipping_address: str, items: list[dict], notes: str = None) -> dict:\n        \"\"\"\n        Place a new order for the authenticated user.\n        items format: [{\"product_id\": \"<uuid>\", \"quantity\": 2}, ...]\n        \"\"\"\n        return await post_json(\"/api/v1/orders/\", {\n            \"shipping_address\": shipping_address,\n            \"items\": items,",
+        "detail": "app.mcp.tools.orders",
+        "documentation": {}
+    },
+    {
+        "label": "register_catalog_tools",
+        "kind": 2,
+        "importPath": "app.mcp.tools.product",
+        "description": "app.mcp.tools.product",
+        "peekOfCode": "def register_catalog_tools(mcp):\n    @mcp.tool()\n    async def catalog_list_categories() -> dict:\n        \"\"\"List all product categories.\"\"\"\n        return await get(\"/api/v1/catalog/categories/\")\n    @mcp.tool()\n    async def catalog_get_category(category_id: str) -> dict:\n        \"\"\"Get a single category by its UUID.\"\"\"\n        return await get(f\"/api/v1/catalog/categories/{category_id}/\")\n    @mcp.tool()",
+        "detail": "app.mcp.tools.product",
+        "documentation": {}
+    },
+    {
+        "label": "register_user_tools",
+        "kind": 2,
+        "importPath": "app.mcp.tools.users",
+        "description": "app.mcp.tools.users",
+        "peekOfCode": "def register_user_tools(mcp):\n    @mcp.tool()\n    async def user_get_me(access_token: str) -> dict:\n        \"\"\"Get the profile of the currently authenticated user.\"\"\"\n        return await get(\"/api/v1/users/me\", token=access_token)\n    @mcp.tool()\n    async def user_update_me(access_token: str, first_name: str = None, last_name: str = None, dp: str = None) -> dict:\n        \"\"\"Update the authenticated user's own profile.\"\"\"\n        return await patch_json(\"/api/v1/users/me\", {\n            \"first_name\": first_name, \"last_name\": last_name, \"dp\": dp,",
+        "detail": "app.mcp.tools.users",
+        "documentation": {}
+    },
+    {
+        "label": "API_BASE",
+        "kind": 5,
+        "importPath": "app.mcp.http",
+        "description": "app.mcp.http",
+        "peekOfCode": "API_BASE = os.getenv(\"API_BASE_URL\", \"http://localhost:8000\")\ndef _client(token: str | None = None) -> httpx.AsyncClient:\n    headers = {\"Authorization\": f\"Bearer {token}\"} if token else {}\n    return httpx.AsyncClient(base_url=API_BASE, headers=headers, timeout=30)\nasync def post_form(path: str, data: dict, token: str | None = None) -> dict:\n    async with _client(token) as c:\n        r = await c.post(path, data={k: v for k, v in data.items() if v is not None})\n        return r.json()\nasync def post_json(path: str, body: dict, token: str | None = None) -> dict:\n    async with _client(token) as c:",
+        "detail": "app.mcp.http",
+        "documentation": {}
+    },
+    {
+        "label": "mcp",
+        "kind": 5,
+        "importPath": "app.mcp.serve",
+        "description": "app.mcp.serve",
+        "peekOfCode": "mcp = FastMCP(\n    \"ecommerce\",\n    instructions=(\n        \"You are an assistant for an e-commerce platform. \"\n        \"Always call auth_login first to get an access_token before calling any protected tool. \"\n        \"Reuse the access_token across all tool calls in the same session. \"\n        \"If a tool returns 401, call auth_refresh_token then retry. \"\n        \"For placing orders, first call catalog_list_products to resolve product_id, then call order_create.\"\n    ),\n)",
+        "detail": "app.mcp.serve",
+        "documentation": {}
+    },
+    {
+        "label": "register_exception_handlers",
+        "kind": 2,
+        "importPath": "app.middleware.exception_handler",
+        "description": "app.middleware.exception_handler",
+        "peekOfCode": "def register_exception_handlers(app: FastAPI) -> None:\n    @app.exception_handler(AppException)\n    async def app_exception_handler(request: Request, exc: AppException):\n        return JSONResponse(\n            status_code=exc.status_code,\n            content={\"success\": False, \"message\": exc.detail, \"errors\": None},\n        )\n    @app.exception_handler(RequestValidationError)\n    async def validation_exception_handler(request: Request, exc: RequestValidationError):\n        errors = [{\"field\": \".\".join(str(l) for l in e[\"loc\"]), \"message\": e[\"msg\"]} for e in exc.errors()]",
+        "detail": "app.middleware.exception_handler",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "app.middleware.exception_handler",
+        "description": "app.middleware.exception_handler",
+        "peekOfCode": "logger = get_logger(__name__)\ndef register_exception_handlers(app: FastAPI) -> None:\n    @app.exception_handler(AppException)\n    async def app_exception_handler(request: Request, exc: AppException):\n        return JSONResponse(\n            status_code=exc.status_code,\n            content={\"success\": False, \"message\": exc.detail, \"errors\": None},\n        )\n    @app.exception_handler(RequestValidationError)\n    async def validation_exception_handler(request: Request, exc: RequestValidationError):",
+        "detail": "app.middleware.exception_handler",
+        "documentation": {}
+    },
+    {
+        "label": "RequestLoggingMiddleware",
+        "kind": 6,
+        "importPath": "app.middleware.request_logging",
+        "description": "app.middleware.request_logging",
+        "peekOfCode": "class RequestLoggingMiddleware(BaseHTTPMiddleware):\n    async def dispatch(self, request: Request, call_next):\n        request_id = str(uuid.uuid4())\n        structlog.contextvars.clear_contextvars()\n        structlog.contextvars.bind_contextvars(\n            request_id=request_id,\n            method=request.method,\n            path=request.url.path,\n        )\n        start = time.perf_counter()",
+        "detail": "app.middleware.request_logging",
+        "documentation": {}
+    },
+    {
+        "label": "_SYSTEM",
+        "kind": 5,
+        "importPath": "app.modules.ai.service",
+        "description": "app.modules.ai.service",
+        "peekOfCode": "_SYSTEM = \"\"\"\nYou are a helpful e-commerce assistant. You can:\n1. Answer questions about products and orders\n2. Place new orders on behalf of the user\n3. Cancel existing orders for the user\nRules:\n- Use the provided tools to take actions — never make up order IDs or product IDs\n- Before placing an order, always confirm the product name and price with the user\n- Only cancel orders that are in 'pending' or 'processing' status\n- Be concise and friendly",
+        "detail": "app.modules.ai.service",
+        "documentation": {}
+    },
+    {
+        "label": "_TOOLS",
+        "kind": 5,
+        "importPath": "app.modules.ai.service",
+        "description": "app.modules.ai.service",
+        "peekOfCode": "_TOOLS = [\n    {\n        \"name\": \"search_products\",\n        \"description\": \"Search products by name or category to find product IDs and prices before placing an order.\",\n        \"input_schema\": {\n            \"type\": \"object\",\n            \"properties\": {\n                \"query\": {\"type\": \"string\", \"description\": \"Product name or category to search\"},\n            },\n            \"required\": [\"query\"],",
+        "detail": "app.modules.ai.service",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterRequest",
+        "kind": 6,
+        "importPath": "app.modules.auth.schemas",
+        "description": "app.modules.auth.schemas",
+        "peekOfCode": "class RegisterRequest(BaseModel):\n    \"\"\"User registration request. OTP will be sent to the provided email.\"\"\"\n    first_name: str = Field(..., min_length=1, max_length=30, examples=[\"John\"])\n    last_name: str = Field(..., min_length=1, max_length=30, examples=[\"Doe\"])\n    email: EmailStr = Field(..., examples=[\"john@example.com\"])\n    password: str = Field(..., min_length=8, max_length=32, examples=[\"Secret@123\"])\n    confirm_password: str = Field(..., min_length=8, max_length=32, examples=[\"Secret@123\"])\n    @model_validator(mode=\"after\")\n    def passwords_must_match(self):\n        if self.password != self.confirm_password:",
+        "detail": "app.modules.auth.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "OtpVerifyRequest",
+        "kind": 6,
+        "importPath": "app.modules.auth.schemas",
+        "description": "app.modules.auth.schemas",
+        "peekOfCode": "class OtpVerifyRequest(BaseModel):\n    \"\"\"OTP verification for completing registration.\"\"\"\n    email: EmailStr = Field(..., examples=[\"john@example.com\"])\n    otp: str = Field(..., min_length=6, max_length=6, examples=[\"123456\"])\nclass OtpResendRequest(BaseModel):\n    \"\"\"Resend OTP to the provided email.\"\"\"\n    email: EmailStr = Field(..., examples=[\"john@example.com\"])\n# ──────────────────────────────────────────────\n# Login\n# ──────────────────────────────────────────────",
+        "detail": "app.modules.auth.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "OtpResendRequest",
+        "kind": 6,
+        "importPath": "app.modules.auth.schemas",
+        "description": "app.modules.auth.schemas",
+        "peekOfCode": "class OtpResendRequest(BaseModel):\n    \"\"\"Resend OTP to the provided email.\"\"\"\n    email: EmailStr = Field(..., examples=[\"john@example.com\"])\n# ──────────────────────────────────────────────\n# Login\n# ──────────────────────────────────────────────\nclass LoginRequest(BaseModel):\n    \"\"\"Login with email and password.\"\"\"\n    email: EmailStr = Field(..., examples=[\"john@example.com\"])\n    password: str = Field(..., examples=[\"Secret@123\"])",
+        "detail": "app.modules.auth.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "LoginRequest",
+        "kind": 6,
+        "importPath": "app.modules.auth.schemas",
+        "description": "app.modules.auth.schemas",
+        "peekOfCode": "class LoginRequest(BaseModel):\n    \"\"\"Login with email and password.\"\"\"\n    email: EmailStr = Field(..., examples=[\"john@example.com\"])\n    password: str = Field(..., examples=[\"Secret@123\"])\n# ──────────────────────────────────────────────\n# Password Reset\n# ──────────────────────────────────────────────\nclass PasswordResetRequest(BaseModel):\n    \"\"\"Request a password reset OTP.\"\"\"\n    email: EmailStr = Field(..., examples=[\"john@example.com\"])",
+        "detail": "app.modules.auth.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "PasswordResetRequest",
+        "kind": 6,
+        "importPath": "app.modules.auth.schemas",
+        "description": "app.modules.auth.schemas",
+        "peekOfCode": "class PasswordResetRequest(BaseModel):\n    \"\"\"Request a password reset OTP.\"\"\"\n    email: EmailStr = Field(..., examples=[\"john@example.com\"])\nclass PasswordChangeRequest(BaseModel):\n    \"\"\"Change password using the OTP received via email.\"\"\"\n    email: EmailStr = Field(..., examples=[\"john@example.com\"])\n    otp: str = Field(..., min_length=6, max_length=6, examples=[\"123456\"])\n    new_password: str = Field(..., min_length=8, max_length=32, examples=[\"NewSecret@123\"])\n    confirm_password: str = Field(..., min_length=8, max_length=32, examples=[\"NewSecret@123\"])\n    @model_validator(mode=\"after\")",
+        "detail": "app.modules.auth.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "PasswordChangeRequest",
+        "kind": 6,
+        "importPath": "app.modules.auth.schemas",
+        "description": "app.modules.auth.schemas",
+        "peekOfCode": "class PasswordChangeRequest(BaseModel):\n    \"\"\"Change password using the OTP received via email.\"\"\"\n    email: EmailStr = Field(..., examples=[\"john@example.com\"])\n    otp: str = Field(..., min_length=6, max_length=6, examples=[\"123456\"])\n    new_password: str = Field(..., min_length=8, max_length=32, examples=[\"NewSecret@123\"])\n    confirm_password: str = Field(..., min_length=8, max_length=32, examples=[\"NewSecret@123\"])\n    @model_validator(mode=\"after\")\n    def passwords_must_match(self):\n        if self.new_password != self.confirm_password:\n            raise ValueError(\"Passwords do not match\")",
+        "detail": "app.modules.auth.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "TokenResponse",
+        "kind": 6,
+        "importPath": "app.modules.auth.schemas",
+        "description": "app.modules.auth.schemas",
+        "peekOfCode": "class TokenResponse(BaseModel):\n    \"\"\"JWT token pair returned on successful login or registration.\"\"\"\n    access_token: str\n    refresh_token: str\n    token_type: str = \"bearer\"\nclass AccessTokenResponse(BaseModel):\n    \"\"\"New access token returned on refresh.\"\"\"\n    access_token: str\n    token_type: str = \"bearer\"\nclass RegisterResponse(BaseModel):",
+        "detail": "app.modules.auth.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "AccessTokenResponse",
+        "kind": 6,
+        "importPath": "app.modules.auth.schemas",
+        "description": "app.modules.auth.schemas",
+        "peekOfCode": "class AccessTokenResponse(BaseModel):\n    \"\"\"New access token returned on refresh.\"\"\"\n    access_token: str\n    token_type: str = \"bearer\"\nclass RegisterResponse(BaseModel):\n    \"\"\"Returned after successful OTP verification and user creation.\"\"\"\n    uid: uuid.UUID\n    first_name: str\n    last_name: str\n    email: EmailStr",
+        "detail": "app.modules.auth.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterResponse",
+        "kind": 6,
+        "importPath": "app.modules.auth.schemas",
+        "description": "app.modules.auth.schemas",
+        "peekOfCode": "class RegisterResponse(BaseModel):\n    \"\"\"Returned after successful OTP verification and user creation.\"\"\"\n    uid: uuid.UUID\n    first_name: str\n    last_name: str\n    email: EmailStr\n    tokens: TokenResponse",
+        "detail": "app.modules.auth.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "AuthService",
+        "kind": 6,
+        "importPath": "app.modules.auth.service",
+        "description": "app.modules.auth.service",
+        "peekOfCode": "class AuthService:\n    # ──────────────────────────────────────────\n    # Registration\n    # ──────────────────────────────────────────\n    @staticmethod\n    async def send_registration_otp(data: RegisterRequest) -> SuccessResponse:\n        \"\"\"\n        Step 1 of registration.\n        Validates email is not taken, generates a 6-digit OTP,\n        caches registration data, and dispatches email via Celery.",
+        "detail": "app.modules.auth.service",
+        "documentation": {}
+    },
+    {
+        "label": "Category",
+        "kind": 6,
+        "importPath": "app.modules.catalog.models",
+        "description": "app.modules.catalog.models",
+        "peekOfCode": "class Category(BaseModel):\n    name = fields.CharField(max_length=100, unique=True)\n    slug = fields.CharField(max_length=120, unique=True)\n    description = fields.TextField(null=True)\n    image = fields.CharField(max_length=500, null=True)\n    class Meta:\n        table = \"categories\"\n    def __str__(self):\n        return self.name\nclass Product(BaseModel):",
+        "detail": "app.modules.catalog.models",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "kind": 6,
+        "importPath": "app.modules.catalog.models",
+        "description": "app.modules.catalog.models",
+        "peekOfCode": "class Product(BaseModel):\n    category = fields.ForeignKeyField(\"models.Category\", related_name=\"products\", on_delete=fields.CASCADE)\n    name = fields.CharField(max_length=200)\n    slug = fields.CharField(max_length=220, unique=True)\n    description = fields.TextField(null=True)\n    price = fields.DecimalField(max_digits=12, decimal_places=2)\n    compare_price = fields.DecimalField(max_digits=12, decimal_places=2, null=True)\n    stock = fields.IntField(default=0)\n    sku = fields.CharField(max_length=100, unique=True)\n    is_active = fields.BooleanField(default=True)",
+        "detail": "app.modules.catalog.models",
+        "documentation": {}
+    },
+    {
+        "label": "ProductImage",
+        "kind": 6,
+        "importPath": "app.modules.catalog.models",
+        "description": "app.modules.catalog.models",
+        "peekOfCode": "class ProductImage(BaseModel):\n    product = fields.ForeignKeyField(\"models.Product\", related_name=\"images\", on_delete=fields.CASCADE)\n    url = fields.CharField(max_length=500)\n    alt = fields.CharField(max_length=200, null=True)\n    is_primary = fields.BooleanField(default=False)\n    class Meta:\n        table = \"product_images\"",
+        "detail": "app.modules.catalog.models",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryRepository",
+        "kind": 6,
+        "importPath": "app.modules.catalog.repository",
+        "description": "app.modules.catalog.repository",
+        "peekOfCode": "class CategoryRepository(BaseRepository[Category]):\n    model = Category\n    @classmethod\n    async def get_by_slug(cls, slug: str):\n        return await Category.get_or_none(slug=slug, is_deleted=False)\nclass ProductRepository(BaseRepository[Product]):\n    model = Product\n    @classmethod\n    async def get_with_details(cls, product_id):\n        return await Product.get_or_none(id=product_id, is_deleted=False).prefetch_related(\"category\", \"images\")",
+        "detail": "app.modules.catalog.repository",
+        "documentation": {}
+    },
+    {
+        "label": "ProductRepository",
+        "kind": 6,
+        "importPath": "app.modules.catalog.repository",
+        "description": "app.modules.catalog.repository",
+        "peekOfCode": "class ProductRepository(BaseRepository[Product]):\n    model = Product\n    @classmethod\n    async def get_with_details(cls, product_id):\n        return await Product.get_or_none(id=product_id, is_deleted=False).prefetch_related(\"category\", \"images\")\n    @classmethod\n    async def list_all(cls):\n        return await Product.filter(is_deleted=False).prefetch_related(\"category\", \"images\")\n    @classmethod\n    async def list_by_category(cls, category_id):",
+        "detail": "app.modules.catalog.repository",
+        "documentation": {}
+    },
+    {
+        "label": "ProductImageRepository",
+        "kind": 6,
+        "importPath": "app.modules.catalog.repository",
+        "description": "app.modules.catalog.repository",
+        "peekOfCode": "class ProductImageRepository(BaseRepository[ProductImage]):\n    model = ProductImage",
+        "detail": "app.modules.catalog.repository",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryCreate",
+        "kind": 6,
+        "importPath": "app.modules.catalog.schemas",
+        "description": "app.modules.catalog.schemas",
+        "peekOfCode": "class CategoryCreate(BaseModel):\n    name: str\n    slug: str\n    description: Optional[str] = None\n    image: Optional[str] = None\nclass CategoryUpdate(BaseModel):\n    name: Optional[str] = None\n    slug: Optional[str] = None\n    description: Optional[str] = None\n    image: Optional[str] = None",
+        "detail": "app.modules.catalog.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryUpdate",
+        "kind": 6,
+        "importPath": "app.modules.catalog.schemas",
+        "description": "app.modules.catalog.schemas",
+        "peekOfCode": "class CategoryUpdate(BaseModel):\n    name: Optional[str] = None\n    slug: Optional[str] = None\n    description: Optional[str] = None\n    image: Optional[str] = None\nclass CategoryResponse(BaseModel):\n    id: UUID\n    name: str\n    slug: str\n    description: Optional[str]",
+        "detail": "app.modules.catalog.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryResponse",
+        "kind": 6,
+        "importPath": "app.modules.catalog.schemas",
+        "description": "app.modules.catalog.schemas",
+        "peekOfCode": "class CategoryResponse(BaseModel):\n    id: UUID\n    name: str\n    slug: str\n    description: Optional[str]\n    image: Optional[str]\n    model_config = {\"from_attributes\": True}\n# ── Product Image ──────────────────────────────────────────────────────────────\nclass ProductImageCreate(BaseModel):\n    url: str",
+        "detail": "app.modules.catalog.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "ProductImageCreate",
+        "kind": 6,
+        "importPath": "app.modules.catalog.schemas",
+        "description": "app.modules.catalog.schemas",
+        "peekOfCode": "class ProductImageCreate(BaseModel):\n    url: str\n    alt: Optional[str] = None\n    is_primary: bool = False\nclass ProductImageResponse(BaseModel):\n    id: UUID\n    url: str\n    alt: Optional[str]\n    is_primary: bool\n    model_config = {\"from_attributes\": True}",
+        "detail": "app.modules.catalog.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "ProductImageResponse",
+        "kind": 6,
+        "importPath": "app.modules.catalog.schemas",
+        "description": "app.modules.catalog.schemas",
+        "peekOfCode": "class ProductImageResponse(BaseModel):\n    id: UUID\n    url: str\n    alt: Optional[str]\n    is_primary: bool\n    model_config = {\"from_attributes\": True}\n# ── Product ────────────────────────────────────────────────────────────────────\nclass ProductCreate(BaseModel):\n    category_id: UUID\n    name: str",
+        "detail": "app.modules.catalog.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "ProductCreate",
+        "kind": 6,
+        "importPath": "app.modules.catalog.schemas",
+        "description": "app.modules.catalog.schemas",
+        "peekOfCode": "class ProductCreate(BaseModel):\n    category_id: UUID\n    name: str\n    slug: str\n    description: Optional[str] = None\n    price: Decimal\n    compare_price: Optional[Decimal] = None\n    stock: int = 0\n    sku: str\n    is_active: bool = True",
+        "detail": "app.modules.catalog.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "ProductUpdate",
+        "kind": 6,
+        "importPath": "app.modules.catalog.schemas",
+        "description": "app.modules.catalog.schemas",
+        "peekOfCode": "class ProductUpdate(BaseModel):\n    name: Optional[str] = None\n    slug: Optional[str] = None\n    description: Optional[str] = None\n    price: Optional[Decimal] = None\n    compare_price: Optional[Decimal] = None\n    stock: Optional[int] = None\n    is_active: Optional[bool] = None\nclass ProductResponse(BaseModel):\n    id: UUID",
+        "detail": "app.modules.catalog.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "ProductResponse",
+        "kind": 6,
+        "importPath": "app.modules.catalog.schemas",
+        "description": "app.modules.catalog.schemas",
+        "peekOfCode": "class ProductResponse(BaseModel):\n    id: UUID\n    name: str\n    slug: str\n    description: Optional[str]\n    price: Decimal\n    compare_price: Optional[Decimal]\n    stock: int\n    sku: str\n    is_active: bool",
+        "detail": "app.modules.catalog.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryService",
+        "kind": 6,
+        "importPath": "app.modules.catalog.service",
+        "description": "app.modules.catalog.service",
+        "peekOfCode": "class CategoryService:\n    @staticmethod\n    async def list():\n        return await CategoryRepository.get_all()\n    @staticmethod\n    async def get(category_id):\n        cat = await CategoryRepository.get_by_id(category_id)\n        if not cat:\n            raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail=\"Category not found\")\n        return cat",
+        "detail": "app.modules.catalog.service",
+        "documentation": {}
+    },
+    {
+        "label": "ProductService",
+        "kind": 6,
+        "importPath": "app.modules.catalog.service",
+        "description": "app.modules.catalog.service",
+        "peekOfCode": "class ProductService:\n    @staticmethod\n    async def list(category_id=None):\n        if category_id:\n            return await ProductRepository.list_by_category(category_id)\n        return await ProductRepository.list_all()\n    @staticmethod\n    async def get(product_id):\n        product = await ProductRepository.get_with_details(product_id)\n        if not product:",
+        "detail": "app.modules.catalog.service",
+        "documentation": {}
+    },
+    {
+        "label": "OrderStatus",
+        "kind": 6,
+        "importPath": "app.modules.orders.models",
+        "description": "app.modules.orders.models",
+        "peekOfCode": "class OrderStatus(str, Enum):\n    PENDING = \"pending\"\n    PROCESSING = \"processing\"\n    SHIPPED = \"shipped\"\n    DELIVERED = \"delivered\"\n    CANCELLED = \"cancelled\"\nclass Order(BaseModel):\n    user = fields.ForeignKeyField(\"models.User\", related_name=\"orders\", on_delete=fields.CASCADE)\n    status = fields.CharEnumField(enum_type=OrderStatus, max_length=20, default=OrderStatus.PENDING)\n    total_amount = fields.DecimalField(max_digits=12, decimal_places=2)",
+        "detail": "app.modules.orders.models",
+        "documentation": {}
+    },
+    {
+        "label": "Order",
+        "kind": 6,
+        "importPath": "app.modules.orders.models",
+        "description": "app.modules.orders.models",
+        "peekOfCode": "class Order(BaseModel):\n    user = fields.ForeignKeyField(\"models.User\", related_name=\"orders\", on_delete=fields.CASCADE)\n    status = fields.CharEnumField(enum_type=OrderStatus, max_length=20, default=OrderStatus.PENDING)\n    total_amount = fields.DecimalField(max_digits=12, decimal_places=2)\n    shipping_address = fields.TextField()\n    notes = fields.TextField(null=True)\n    class Meta:\n        table = \"orders\"\n    def __str__(self):\n        return f\"Order({self.id}) - {self.status}\"",
+        "detail": "app.modules.orders.models",
+        "documentation": {}
+    },
+    {
+        "label": "OrderItem",
+        "kind": 6,
+        "importPath": "app.modules.orders.models",
+        "description": "app.modules.orders.models",
+        "peekOfCode": "class OrderItem(BaseModel):\n    order = fields.ForeignKeyField(\"models.Order\", related_name=\"items\", on_delete=fields.CASCADE)\n    product = fields.ForeignKeyField(\"models.Product\", related_name=\"order_items\", on_delete=fields.RESTRICT)\n    quantity = fields.IntField()\n    unit_price = fields.DecimalField(max_digits=12, decimal_places=2)\n    subtotal = fields.DecimalField(max_digits=12, decimal_places=2)\n    class Meta:\n        table = \"order_items\"",
+        "detail": "app.modules.orders.models",
+        "documentation": {}
+    },
+    {
+        "label": "OrderItemCreate",
+        "kind": 6,
+        "importPath": "app.modules.orders.schemas",
+        "description": "app.modules.orders.schemas",
+        "peekOfCode": "class OrderItemCreate(BaseModel):\n    product_id: UUID\n    quantity: int\nclass OrderCreate(BaseModel):\n    shipping_address: str\n    items: List[OrderItemCreate]\n    notes: Optional[str] = None\nclass OrderItemResponse(BaseModel):\n    id: UUID\n    product_id: UUID",
+        "detail": "app.modules.orders.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "OrderCreate",
+        "kind": 6,
+        "importPath": "app.modules.orders.schemas",
+        "description": "app.modules.orders.schemas",
+        "peekOfCode": "class OrderCreate(BaseModel):\n    shipping_address: str\n    items: List[OrderItemCreate]\n    notes: Optional[str] = None\nclass OrderItemResponse(BaseModel):\n    id: UUID\n    product_id: UUID\n    product_name: str\n    quantity: int\n    unit_price: Decimal",
+        "detail": "app.modules.orders.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "OrderItemResponse",
+        "kind": 6,
+        "importPath": "app.modules.orders.schemas",
+        "description": "app.modules.orders.schemas",
+        "peekOfCode": "class OrderItemResponse(BaseModel):\n    id: UUID\n    product_id: UUID\n    product_name: str\n    quantity: int\n    unit_price: Decimal\n    subtotal: Decimal\n    model_config = {\"from_attributes\": True}\nclass OrderResponse(BaseModel):\n    id: UUID",
+        "detail": "app.modules.orders.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "OrderResponse",
+        "kind": 6,
+        "importPath": "app.modules.orders.schemas",
+        "description": "app.modules.orders.schemas",
+        "peekOfCode": "class OrderResponse(BaseModel):\n    id: UUID\n    status: str\n    total_amount: Decimal\n    shipping_address: str\n    notes: Optional[str]\n    items: List[OrderItemResponse] = []\n    model_config = {\"from_attributes\": True}",
+        "detail": "app.modules.orders.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "OrderService",
+        "kind": 6,
+        "importPath": "app.modules.orders.service",
+        "description": "app.modules.orders.service",
+        "peekOfCode": "class OrderService:\n    @staticmethod\n    async def create(user, data: OrderCreate) -> OrderResponse:\n        total = Decimal(\"0\")\n        line_items = []\n        for item in data.items:\n            product = await Product.get_or_none(id=item.product_id, is_deleted=False, is_active=True)\n            if not product:\n                raise HTTPException(status_code=404, detail=f\"Product {item.product_id} not found\")\n            if product.stock < item.quantity:",
+        "detail": "app.modules.orders.service",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "app.modules.users.models",
+        "description": "app.modules.users.models",
+        "peekOfCode": "class User(BaseModel):\n    first_name = fields.CharField(max_length=30)\n    last_name = fields.CharField(max_length=30)\n    email = fields.CharField(max_length=200, unique=True)\n    hashed_password = fields.CharField(max_length=255)\n    is_active = fields.BooleanField(default=True)\n    role = fields.CharEnumField(enum_type=RoleEnum, max_length=10, default=RoleEnum.CUSTOMER)\n    dp = fields.CharField(max_length=255, null=True)\n    class Meta:\n        table = \"users\"",
+        "detail": "app.modules.users.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserRepository",
+        "kind": 6,
+        "importPath": "app.modules.users.repository",
+        "description": "app.modules.users.repository",
+        "peekOfCode": "class UserRepository(BaseRepository[User]):\n    model = User\n    @classmethod\n    async def get_by_email(cls, email: str) -> Optional[User]:\n        return await User.get_or_none(email=email, is_deleted=False)\n    @classmethod\n    async def get_by_username(cls, username: str) -> Optional[User]:\n        return await User.get_or_none(username=username, is_deleted=False)\n    @classmethod\n    async def email_exists(cls, email: str) -> bool:",
+        "detail": "app.modules.users.repository",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreate",
+        "kind": 6,
+        "importPath": "app.modules.users.schemas",
+        "description": "app.modules.users.schemas",
+        "peekOfCode": "class UserCreate(BaseModel):\n    email: EmailStr\n    username: str\n    full_name: str\n    password: str\n    phone: Optional[str] = None\n    address: Optional[str] = None\n    @field_validator(\"username\")\n    @classmethod\n    def validate_username(cls, v: str) -> str:",
+        "detail": "app.modules.users.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserUpdate",
+        "kind": 6,
+        "importPath": "app.modules.users.schemas",
+        "description": "app.modules.users.schemas",
+        "peekOfCode": "class UserUpdate(BaseModel):\n    full_name: Optional[str] = None\n    phone: Optional[str] = None\n    address: Optional[str] = None\nclass UserResponse(BaseModel):\n    model_config = ConfigDict(from_attributes=True)\n    id: uuid.UUID\n    email: EmailStr\n    first_name: str\n    last_name: str",
+        "detail": "app.modules.users.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserResponse",
+        "kind": 6,
+        "importPath": "app.modules.users.schemas",
+        "description": "app.modules.users.schemas",
+        "peekOfCode": "class UserResponse(BaseModel):\n    model_config = ConfigDict(from_attributes=True)\n    id: uuid.UUID\n    email: EmailStr\n    first_name: str\n    last_name: str\n    is_active: bool\nclass UserInDB(UserResponse):\n    hashed_password: str",
+        "detail": "app.modules.users.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserInDB",
+        "kind": 6,
+        "importPath": "app.modules.users.schemas",
+        "description": "app.modules.users.schemas",
+        "peekOfCode": "class UserInDB(UserResponse):\n    hashed_password: str",
+        "detail": "app.modules.users.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserService",
+        "kind": 6,
+        "importPath": "app.modules.users.service",
+        "description": "app.modules.users.service",
+        "peekOfCode": "class UserService:\n    @staticmethod\n    async def get_by_id(user_id: str) -> UserResponse:\n        user = await UserRepository.get_by_id(user_id)\n        if not user:\n            raise NotFoundException(\"User not found\")\n        return UserResponse.model_validate(user)\n    @staticmethod\n    async def update(user_id: str, data: UserUpdate) -> UserResponse:\n        user = await UserRepository.get_by_id(user_id)",
+        "detail": "app.modules.users.service",
+        "documentation": {}
+    },
+    {
+        "label": "print_summary",
+        "kind": 2,
+        "importPath": "app.scripts.seed",
+        "description": "app.scripts.seed",
+        "peekOfCode": "def print_summary(users):\n    print(\"\\n\" + \"=\" * 60)\n    print(\"  ✅  SEED COMPLETE — Test Credentials\")\n    print(\"=\" * 60)\n    print(f\"  {'Role':<12} {'Email':<30} {'Password'}\")\n    print(f\"  {'-'*12} {'-'*30} {'-'*15}\")\n    creds = {\n        \"admin\":      (\"admin@ecommerce.com\",  \"Admin1234\"),\n        \"john_doe\":   (\"john@example.com\",     \"Customer1234\"),\n        \"jane_smith\": (\"jane@example.com\",     \"Customer1234\"),",
+        "detail": "app.scripts.seed",
+        "documentation": {}
+    },
+    {
+        "label": "USERS",
+        "kind": 5,
+        "importPath": "app.scripts.seed",
+        "description": "app.scripts.seed",
+        "peekOfCode": "USERS = [\n    {\n        \"email\": \"admin@ecommerce.com\",\n        \"username\": \"admin\",\n        \"full_name\": \"Admin User\",\n        \"password\": \"Admin1234\",\n        \"role\": \"admin\",\n        \"phone\": \"+8801700000001\",\n        \"address\": \"123 Admin Street, Dhaka, Bangladesh\",\n    },",
+        "detail": "app.scripts.seed",
+        "documentation": {}
+    },
+    {
+        "label": "CATEGORIES",
+        "kind": 5,
+        "importPath": "app.scripts.seed",
+        "description": "app.scripts.seed",
+        "peekOfCode": "CATEGORIES = [\n    {\"name\": \"Electronics\",    \"slug\": \"electronics\",    \"description\": \"Phones, laptops, gadgets and accessories\"},\n    {\"name\": \"Clothing\",       \"slug\": \"clothing\",       \"description\": \"Men, women and kids fashion\"},\n    {\"name\": \"Books\",          \"slug\": \"books\",          \"description\": \"Fiction, non-fiction, textbooks\"},\n    {\"name\": \"Home & Kitchen\", \"slug\": \"home-kitchen\",   \"description\": \"Furniture, appliances and decor\"},\n    {\"name\": \"Sports\",         \"slug\": \"sports\",         \"description\": \"Outdoor, fitness and sports gear\"},\n]\nPRODUCTS = [\n    # Electronics\n    {",
+        "detail": "app.scripts.seed",
+        "documentation": {}
+    },
+    {
+        "label": "PRODUCTS",
+        "kind": 5,
+        "importPath": "app.scripts.seed",
+        "description": "app.scripts.seed",
+        "peekOfCode": "PRODUCTS = [\n    # Electronics\n    {\n        \"name\": \"iPhone 15 Pro\",\n        \"slug\": \"iphone-15-pro\",\n        \"description\": \"Apple iPhone 15 Pro with A17 chip, 256GB storage, titanium design.\",\n        \"price\": Decimal(\"129999.00\"),\n        \"compare_price\": Decimal(\"139999.00\"),\n        \"stock\": 50,\n        \"sku\": \"APPL-IP15P-256\",",
+        "detail": "app.scripts.seed",
+        "documentation": {}
+    },
+    {
+        "label": "build_products",
+        "kind": 2,
+        "importPath": "app.scripts.seed_catalog",
+        "description": "app.scripts.seed_catalog",
+        "peekOfCode": "def build_products(cat_slug: str) -> list[dict]:\n    templates = PRODUCTS_BY_CATEGORY[cat_slug]\n    images_pool = UNSPLASH_IMAGES[cat_slug]\n    products = []\n    # 5 templates × 20 iterations = 100 products per category\n    for i in range(1, 21):\n        for t_idx, (name_t, slug_t, desc_t, min_price, max_price, stock, img_count) in enumerate(templates):\n            price = Decimal(str(min_price + (i * 100)))\n            compare = Decimal(str(max_price - (i * 50))) if i % 3 != 0 else None\n            sku = f\"{cat_slug[:4].upper()}-{t_idx:02d}-{i:03d}\"",
+        "detail": "app.scripts.seed_catalog",
+        "documentation": {}
+    },
+    {
+        "label": "CATEGORIES",
+        "kind": 5,
+        "importPath": "app.scripts.seed_catalog",
+        "description": "app.scripts.seed_catalog",
+        "peekOfCode": "CATEGORIES = [\n    {\n        \"name\": \"Electronics\",\n        \"slug\": \"electronics\",\n        \"description\": \"Phones, laptops, gadgets and accessories\",\n        \"image\": \"https://images.unsplash.com/photo-1498049794561-7780e7231661?w=800\",\n    },\n    {\n        \"name\": \"Clothing\",\n        \"slug\": \"clothing\",",
+        "detail": "app.scripts.seed_catalog",
+        "documentation": {}
+    },
+    {
+        "label": "PRODUCTS_BY_CATEGORY",
+        "kind": 5,
+        "importPath": "app.scripts.seed_catalog",
+        "description": "app.scripts.seed_catalog",
+        "peekOfCode": "PRODUCTS_BY_CATEGORY = {\n    \"electronics\": [\n        (\"Smartphone Pro {i}\", \"smartphone-pro-{i}\", \"High-end smartphone model {i} with AMOLED display and 5G.\", 15000, 50000, 200, 2),\n        (\"Laptop Ultra {i}\", \"laptop-ultra-{i}\", \"Thin and light laptop with 16GB RAM and 512GB SSD.\", 45000, 90000, 30, 2),\n        (\"Wireless Earbuds {i}\", \"wireless-earbuds-{i}\", \"True wireless earbuds with ANC and 30hr battery.\", 2000, 8000, 150, 2),\n        (\"Smart Watch {i}\", \"smart-watch-{i}\", \"Fitness smart watch with heart rate and GPS.\", 3000, 12000, 100, 1),\n        (\"Bluetooth Speaker {i}\", \"bluetooth-speaker-{i}\", \"Portable waterproof bluetooth speaker.\", 1500, 5000, 200, 1),\n    ],\n    \"clothing\": [\n        (\"Men T-Shirt {i}\", \"men-tshirt-{i}\", \"100% cotton men's t-shirt, available in multiple colors.\", 400, 1200, 500, 2),",
+        "detail": "app.scripts.seed_catalog",
+        "documentation": {}
+    },
+    {
+        "label": "UNSPLASH_IMAGES",
+        "kind": 5,
+        "importPath": "app.scripts.seed_catalog",
+        "description": "app.scripts.seed_catalog",
+        "peekOfCode": "UNSPLASH_IMAGES = {\n    \"electronics\": [\n        \"https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600\",\n        \"https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=600\",\n        \"https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600\",\n    ],\n    \"clothing\": [\n        \"https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=600\",\n        \"https://images.unsplash.com/photo-1496747611176-843222e1e57c?w=600\",\n        \"https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600\",",
+        "detail": "app.scripts.seed_catalog",
+        "documentation": {}
+    },
+    {
+        "label": "USERS",
+        "kind": 5,
+        "importPath": "app.scripts.seed_orders",
+        "description": "app.scripts.seed_orders",
+        "peekOfCode": "USERS = [\n    {\"first_name\": \"John\",  \"last_name\": \"Doe\",   \"email\": \"john@example.com\",  \"password\": \"Customer1234\"},\n    {\"first_name\": \"Jane\",  \"last_name\": \"Smith\",  \"email\": \"jane@example.com\",  \"password\": \"Customer1234\"},\n    {\"first_name\": \"Mizan\", \"last_name\": \"Dev\",    \"email\": \"mizan@example.com\", \"password\": \"Customer1234\"},\n]\n# Each order: (user_email, shipping_address, status, notes, [(sku, qty), ...])\nORDERS = [\n    (\n        \"john@example.com\",\n        \"45 Green Road, Dhaka\",",
+        "detail": "app.scripts.seed_orders",
+        "documentation": {}
+    },
+    {
+        "label": "ORDERS",
+        "kind": 5,
+        "importPath": "app.scripts.seed_orders",
+        "description": "app.scripts.seed_orders",
+        "peekOfCode": "ORDERS = [\n    (\n        \"john@example.com\",\n        \"45 Green Road, Dhaka\",\n        OrderStatus.DELIVERED,\n        \"Please leave at door\",\n        [(\"ELEC-00-001\", 1), (\"CLOT-00-001\", 2)],\n    ),\n    (\n        \"john@example.com\",",
+        "detail": "app.scripts.seed_orders",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "kind": 6,
+        "importPath": "app.shared.base.base_model",
+        "description": "app.shared.base.base_model",
+        "peekOfCode": "class BaseModel(Model):\n    id =fields.UUIDField(pk=True,default=uuid.uuid4,editable=False)\n    created_at = fields.DatetimeField(auto_now_add=True)\n    updated_at = fields.DatetimeField(auto_now=True)\n    is_deleted=fields.BooleanField(default=False,index=True)\n    class Meta:\n        abstract=True\n        ordering = ['id']\n    async def soft_delete(self)->None:\n        self.is_deleted=True",
+        "detail": "app.shared.base.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "Model",
+        "kind": 5,
+        "importPath": "app.shared.base.base_model",
+        "description": "app.shared.base.base_model",
+        "peekOfCode": "Model = data structure\nMeta = model-এর rules/settings\n======================= abstract===============\nabstract = True : its not create table in database\n===================== Fieils update ===============\nNot update all fields ,only update thest fiels\n update_fields=[\n                'is_deleted',\n                'updated_at'\n            ]",
+        "detail": "app.shared.base.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "Meta",
+        "kind": 5,
+        "importPath": "app.shared.base.base_model",
+        "description": "app.shared.base.base_model",
+        "peekOfCode": "Meta = model-এর rules/settings\n======================= abstract===============\nabstract = True : its not create table in database\n===================== Fieils update ===============\nNot update all fields ,only update thest fiels\n update_fields=[\n                'is_deleted',\n                'updated_at'\n            ]\n'''",
+        "detail": "app.shared.base.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "abstract",
+        "kind": 5,
+        "importPath": "app.shared.base.base_model",
+        "description": "app.shared.base.base_model",
+        "peekOfCode": "abstract = True : its not create table in database\n===================== Fieils update ===============\nNot update all fields ,only update thest fiels\n update_fields=[\n                'is_deleted',\n                'updated_at'\n            ]\n'''",
+        "detail": "app.shared.base.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "BaseRepository",
+        "kind": 6,
+        "importPath": "app.shared.base.base_repository",
+        "description": "app.shared.base.base_repository",
+        "peekOfCode": "class BaseRepository(Generic[ModelType]):\n    model: Type[ModelType]\n    @classmethod\n    async def get_by_id(cls, id: Any) -> Optional[ModelType]:\n        return await cls.model.get_or_none(id=id, is_deleted=False)\n    @classmethod\n    async def get_all(cls, **filters) -> List[ModelType]:\n        return await cls.model.filter(is_deleted=False, **filters)\n    @classmethod\n    async def create(cls, **data) -> ModelType:",
+        "detail": "app.shared.base.base_repository",
+        "documentation": {}
+    },
+    {
+        "label": "ModelType",
+        "kind": 5,
+        "importPath": "app.shared.base.base_repository",
+        "description": "app.shared.base.base_repository",
+        "peekOfCode": "ModelType = TypeVar(\"ModelType\", bound=Model)\nclass BaseRepository(Generic[ModelType]):\n    model: Type[ModelType]\n    @classmethod\n    async def get_by_id(cls, id: Any) -> Optional[ModelType]:\n        return await cls.model.get_or_none(id=id, is_deleted=False)\n    @classmethod\n    async def get_all(cls, **filters) -> List[ModelType]:\n        return await cls.model.filter(is_deleted=False, **filters)\n    @classmethod",
+        "detail": "app.shared.base.base_repository",
+        "documentation": {}
+    },
+    {
+        "label": "RoleEnum",
+        "kind": 6,
+        "importPath": "app.shared.enums.role_enum",
+        "description": "app.shared.enums.role_enum",
+        "peekOfCode": "class RoleEnum(str, Enum):\n    ADMIN = \"admin\"\n    CUSTOMER = \"customer\"",
+        "detail": "app.shared.enums.role_enum",
+        "documentation": {}
+    },
+    {
+        "label": "SuccessResponse",
+        "kind": 6,
+        "importPath": "app.shared.responses.api_response",
+        "description": "app.shared.responses.api_response",
+        "peekOfCode": "class SuccessResponse(BaseModel, Generic[T]):\n    success: bool = True\n    message: str = \"OK\"\n    data: Optional[T] = None\nclass ErrorResponse(BaseModel):\n    success: bool = False\n    message: str='Error'\n    errors: Optional[Any] = None\nclass PaginatedResponse(BaseModel, Generic[T]):\n    success: bool = True",
+        "detail": "app.shared.responses.api_response",
+        "documentation": {}
+    },
+    {
+        "label": "ErrorResponse",
+        "kind": 6,
+        "importPath": "app.shared.responses.api_response",
+        "description": "app.shared.responses.api_response",
+        "peekOfCode": "class ErrorResponse(BaseModel):\n    success: bool = False\n    message: str='Error'\n    errors: Optional[Any] = None\nclass PaginatedResponse(BaseModel, Generic[T]):\n    success: bool = True\n    data: List[T]\n    total: int\n    page: int\n    page_size: int",
+        "detail": "app.shared.responses.api_response",
+        "documentation": {}
+    },
+    {
+        "label": "PaginatedResponse",
+        "kind": 6,
+        "importPath": "app.shared.responses.api_response",
+        "description": "app.shared.responses.api_response",
+        "peekOfCode": "class PaginatedResponse(BaseModel, Generic[T]):\n    success: bool = True\n    data: List[T]\n    total: int\n    page: int\n    page_size: int\n    total_pages: int\nclass PaginationParams(BaseModel):\n    page: int = 1\n    page_size: int = 20",
+        "detail": "app.shared.responses.api_response",
+        "documentation": {}
+    },
+    {
+        "label": "PaginationParams",
+        "kind": 6,
+        "importPath": "app.shared.responses.api_response",
+        "description": "app.shared.responses.api_response",
+        "peekOfCode": "class PaginationParams(BaseModel):\n    page: int = 1\n    page_size: int = 20\n    search: Optional[str] = None\n    sort_by: Optional[str] = None\n    sort_order: str = \"asc\"\n    @property\n    def offset(self) -> int:\n        return (self.page - 1) * self.page_size",
+        "detail": "app.shared.responses.api_response",
+        "documentation": {}
+    },
+    {
+        "label": "T",
+        "kind": 5,
+        "importPath": "app.shared.responses.api_response",
+        "description": "app.shared.responses.api_response",
+        "peekOfCode": "T = TypeVar(\"T\")\nclass SuccessResponse(BaseModel, Generic[T]):\n    success: bool = True\n    message: str = \"OK\"\n    data: Optional[T] = None\nclass ErrorResponse(BaseModel):\n    success: bool = False\n    message: str='Error'\n    errors: Optional[Any] = None\nclass PaginatedResponse(BaseModel, Generic[T]):",
+        "detail": "app.shared.responses.api_response",
+        "documentation": {}
+    },
+    {
+        "label": "get_ip",
+        "kind": 2,
+        "importPath": "app.shared.throttling.ip",
+        "description": "app.shared.throttling.ip",
+        "peekOfCode": "def get_ip(request: Request):\n    return request.client.host\ndef get_user_id(request:Request):\n    return request.headers.get(\"user-id\")",
+        "detail": "app.shared.throttling.ip",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_id",
+        "kind": 2,
+        "importPath": "app.shared.throttling.ip",
+        "description": "app.shared.throttling.ip",
+        "peekOfCode": "def get_user_id(request:Request):\n    return request.headers.get(\"user-id\")",
+        "detail": "app.shared.throttling.ip",
+        "documentation": {}
+    },
+    {
+        "label": "rate_limit",
+        "kind": 2,
+        "importPath": "app.shared.throttling.ratelimiting",
+        "description": "app.shared.throttling.ratelimiting",
+        "peekOfCode": "def rate_limit(limit: int, window: int):\n    def decorator(func):\n        async def wrapper(request: Request, *args, **kwargs):\n            redis_client = await get_redis()\n            ip = request.client.host\n            key = f\"rate:decorator:{func.__name__}:{ip}\"\n            now = int(time.time())\n            await redis_client.zremrangebyscore(key, 0, now - window)\n            count = await redis_client.zcard(key)\n            if count >= limit:",
+        "detail": "app.shared.throttling.ratelimiting",
+        "documentation": {}
+    },
+    {
+        "label": "_MAX_OTP_ATTEMPTS",
+        "kind": 5,
+        "importPath": "app.shared.utils.constants",
+        "description": "app.shared.utils.constants",
+        "peekOfCode": "_MAX_OTP_ATTEMPTS = 3",
+        "detail": "app.shared.utils.constants",
+        "documentation": {}
+    },
+    {
+        "label": "OTPService",
+        "kind": 6,
+        "importPath": "app.shared.utils.otp_create",
+        "description": "app.shared.utils.otp_create",
+        "peekOfCode": "class OTPService:\n    @staticmethod\n    def otp_generator(length: int = 6) -> str:\n        return \"\".join(str(secrets.randbelow(10)) for _ in range(length))",
+        "detail": "app.shared.utils.otp_create",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "app = FastAPI(\n    title=settings.app_name,\n    version=\"1.0.0\",\n    docs_url=\"/docs\" if not settings.is_production else None,\n    redoc_url=\"/redoc\" if not settings.is_production else None,\n    openapi_url=\"/openapi.json\" if not settings.is_production else None,\n    lifespan=lifespan,\n)\n# Middleware\napp.state.limiter = limiter",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "app.state.limiter",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "app.state.limiter = limiter\napp.add_exception_handler(RateLimitExceeded, _rate_limit_exceeded_handler)\napp.add_middleware(RequestLoggingMiddleware)\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=settings.cors_origins,\n    allow_credentials=True,\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"],\n)",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "MCP_SERVER",
+        "kind": 5,
+        "importPath": "mcp_gemini_client",
+        "description": "mcp_gemini_client",
+        "peekOfCode": "MCP_SERVER = StdioServerParameters(\n    command=\"python\",\n    args=[os.path.join(os.path.dirname(__file__), \"mcp_server.py\")],\n    env={\"API_BASE_URL\": os.getenv(\"API_BASE_URL\", \"http://localhost:8000\")},\n)\nSYSTEM_INSTRUCTION = \"\"\"\nYou are an intelligent assistant for an e-commerce platform.\nYou have access to tools for authentication, catalog browsing, order management, and user profiles.\nRules:\n- Always call auth_login first when the user wants to do something that needs authentication.",
+        "detail": "mcp_gemini_client",
+        "documentation": {}
+    },
+    {
+        "label": "SYSTEM_INSTRUCTION",
+        "kind": 5,
+        "importPath": "mcp_gemini_client",
+        "description": "mcp_gemini_client",
+        "peekOfCode": "SYSTEM_INSTRUCTION = \"\"\"\nYou are an intelligent assistant for an e-commerce platform.\nYou have access to tools for authentication, catalog browsing, order management, and user profiles.\nRules:\n- Always call auth_login first when the user wants to do something that needs authentication.\n- Reuse the access_token from login across all subsequent tool calls in the session.\n- If a tool returns a 401 error, call auth_refresh_token then retry the original tool.\n- When placing an order, first call catalog_list_products to find the correct product_id.\n- Be concise and friendly in your final responses.\n- Never expose raw tokens to the user.",
+        "detail": "mcp_gemini_client",
+        "documentation": {}
+    },
+    {
+        "label": "API_BASE",
+        "kind": 5,
+        "importPath": "mcp_server",
+        "description": "mcp_server",
+        "peekOfCode": "API_BASE = os.getenv(\"API_BASE_URL\", \"http://localhost:8000\")\nmcp = FastMCP(\n    \"ecommerce\",\n    instructions=(\n        \"You are an assistant for an e-commerce platform. \"\n        \"Always call auth_login first to get an access_token before calling any protected tool. \"\n        \"Reuse the access_token across all tool calls in the same session. \"\n        \"If a tool returns 401, call auth_refresh_token then retry. \"\n        \"For placing orders, first list products to resolve product_id, then call order_create.\"\n    ),",
+        "detail": "mcp_server",
+        "documentation": {}
+    },
+    {
+        "label": "mcp",
+        "kind": 5,
+        "importPath": "mcp_server",
+        "description": "mcp_server",
+        "peekOfCode": "mcp = FastMCP(\n    \"ecommerce\",\n    instructions=(\n        \"You are an assistant for an e-commerce platform. \"\n        \"Always call auth_login first to get an access_token before calling any protected tool. \"\n        \"Reuse the access_token across all tool calls in the same session. \"\n        \"If a tool returns 401, call auth_refresh_token then retry. \"\n        \"For placing orders, first list products to resolve product_id, then call order_create.\"\n    ),\n)",
+        "detail": "mcp_server",
+        "documentation": {}
+    }
+]

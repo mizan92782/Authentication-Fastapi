@@ -50,9 +50,9 @@ class Settings(BaseSettings):
     jwt_refresh_token_expire_days: int = 7
     jwt_algorithm: str = "HS256"
 
-    # Gemini
-    gemini_api_key: str
-    gemini_model: str = "gemini-1.5-flash"
+    # Claude
+    claude_api_key: str
+    claude_model: str = "claude-haiku-4-5-20251001"
 
     # Email
     smtp_host: str = "smtp.gmail.com"
