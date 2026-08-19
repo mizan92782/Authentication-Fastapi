@@ -81,16 +81,6 @@ services:
     restart: unless-stopped
     networks: [app_network]
 
-  pgadmin:
-    image: dpage/pgadmin4:latest
-    container_name: fastapi_pgadmin
-    environment:
-      PGADMIN_DEFAULT_EMAIL: admin@admin.com
-      PGADMIN_DEFAULT_PASSWORD: admin
-    ports: ["5051:80"]
-    depends_on: [postgres]
-    restart: unless-stopped
-    networks: [app_network]
 
 volumes:
   postgres_data:
