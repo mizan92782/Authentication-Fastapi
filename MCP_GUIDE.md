@@ -563,7 +563,7 @@ The MCP server does not import your FastAPI app or touch the database directly. 
 ### Running
 
 ```bash
-python mcp_server.py
+python -m app.mcp.serve
 ```
 
 The server waits on stdin. It does not open a port. Communication happens through subprocess pipes.
@@ -629,7 +629,7 @@ The client stores the JWT in memory and auto-injects it. The user never types to
 
 ```bash
 pip install mcp[cli] httpx anthropic python-dotenv
-python mcp_gemini_client.py
+python -m app.mcp.client
 ```
 
 ---
